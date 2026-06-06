@@ -31,7 +31,7 @@
 | 7 | Ghareeb Nawaz - UIC student reviews| Sluurpy | https://www.sluurpy.us/chicago/restaurant/3809723/ghareeb-nawaz-uic/reviews|
 | 8 | Ground Up Coffee - Campus coffee shop| SageMenu | https://sagemenu.com/chicago/ground-up-chicago/|
 | 9 | Ghareeb Nawaz - Budget eats (second source)| MenuPix | https://www.menupix.com/chicago/restaurants/380211311/Ghareeb-Nawaz-Chicago-IL|
-| 10 |Ground Up Coffee - Study spot reviews | MapQuest | https://www.mapquest.com/us/illinois/ground-up-377251653|
+| 10 |New Resturants | Reddit | https://www.reddit.com/r/uichicago/comments/1ehmylr/new_restaurants_on_campus/|
 
 ---
 
