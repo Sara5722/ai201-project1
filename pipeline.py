@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 # Configuration from planning.md
-CHUNK_SIZE = 500  # characters
+CHUNK_SIZE = 400  # characters
 CHUNK_OVERLAP = 50  # characters
 
 def load_documents(data_folder="data"):
@@ -50,33 +50,51 @@ def load_documents(data_folder="data"):
 
 def clean_document(text, filename):
     """
-    Clean the document text by removing:
-    - Extra whitespace
-    - Common Reddit artifacts
-    - Empty lines (but keep structure)
+    Clean the document text by removing ONLY ads and UI elements.
+    Keep prices, numbers, and original text structure.
     """
     original_length = len(text)
     
-    # Remove any HTML/XML tags (if any)
+    # Remove the source URL line
+    text = re.sub(r'^Source: https?://[^\s]+', '', text, flags=re.MULTILINE)
+    
+    # Remove HTML tags
     text = re.sub(r'<[^>]+>', '', text)
     
-    # Remove markdown links but keep the link text
-    # e.g., [click here](url) -> click here
+    # Remove markdown links but keep link text
     text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
     
-    # Remove common Reddit formatting but keep content
-    text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)  # **bold** -> bold
-    text = re.sub(r'\*([^*]+)\*', r'\1', text)      # *italic* -> italic
+    # Remove Reddit ads and promoted content (but NOT regular numbers)
+    patterns_to_remove = [
+        r'u/EverPassMedia avatar',
+        r'u/Typeform avatar',
+        r'•\s*Promoted',
+        r'NFL Sunday Ticket for Business[^\n]*',
+        r'EverPassMedia[^\n]*',
+        r'everpass\.com[^\n]*',
+        r'Thumbnail image:[^\n]*',
+        r'promoted[^\n]*',
+        r'advertisement[^\n]*',
+        r'Subscribe[^\n]*',
+        r'Sign Up[^\n]*',
+        r'Read More\s*',
+        r'View More\s*',
+        r'Comments Section',
+        r'chatgpt\.com[^\n]*',
+        r'typeform\.com[^\n]*',
+        r'meticulous\.ai[^\n]*',
+    ]
     
-    # Remove "More replies" and "Continue this thread" artifacts
-    text = re.sub(r'[>\s]*more replies[<\s]*', '', text, flags=re.IGNORECASE)
-    text = re.sub(r'[>\s]*continue this thread[<\s]*', '', text, flags=re.IGNORECASE)
+    for pattern in patterns_to_remove:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
     
-    # Normalize whitespace
-    text = re.sub(r'\n\s*\n', '\n\n', text)  # Replace multiple newlines with double
-    text = re.sub(r' +', ' ', text)           # Replace multiple spaces with single
+    # Remove Reddit usernames but KEEP the comment text
+    text = re.sub(r'u/\w+\s+', '', text)
     
-    # Remove leading/trailing whitespace
+    # Clean up whitespace (but don't remove line structure)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    text = re.sub(r' +', ' ', text)
+    
     text = text.strip()
     
     cleaned_length = len(text)
@@ -84,25 +102,7 @@ def clean_document(text, filename):
     
     if removed > 0:
         print(f"   Cleaned {filename}: removed {removed} chars ({removed/original_length*100:.1f}%)")
-
-    # Remove advertisement and UI text patterns
-    ad_patterns = [
-        r'here you left off\. Designed to be token efficient\.[^\n]*',
-        r'Sign Up[\s]*chatgpt\.com[^\n]*',
-        r'Thumbnail image:[^\n]*',
-        r'When the experience feels better, people say more\.[^\n]*',
-        r'Learn More[\s]*typeform\.com[^\n]*',
-        r'promoted[^\n]*',
-        r'advertisement[^\n]*',
-        r'reddit[a-z]*\.com[^\s]*',
-        r'Read More\s*',
-        r'View More\s*',
-        r'[a-z]+\.(com|ai|io|org)[^\s]*', r'Comments Section\s*', # Catch stray domain names  # Remove stray reddit links
-    ]
-
-    for pattern in ad_patterns:
-        text = re.sub(pattern, '', text, flags=re.IGNORECASE)
-     
+    
     return text
 
 def chunk_text(text, filename, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP):

@@ -1,630 +1,852 @@
 [
   {
     "chunk_id": 0,
-    "text": "source: https://www. New restaurants on campus\nhttps://dining.uic.edu/locations/\n\nSo it looks like SCE is getting new restaurants this year. It looks like Wazwan and Ca Phe Da have closed after less than a year of operations. I don't really care, the food was expensive and sucked. Crave Food Hall has closed\n\nThere will be a new restaurant called Spudcraft that mainly sells fries. The name sounds like a Minecraft server\n\nThere are two that says \"new concept coming soon\".",
+    "text": "source: https://www.reddit.com/r/uichicago/comments/1ehmylr/new_restaurants_on_campus/\n\nNew restaurants on campus\nhttps://dining.uic.edu/locations/\n\nSo it looks like SCE is getting new restaurants this year. It looks like Wazwan and Ca Phe Da have closed after less than a year of operations. I don't really care, the food was expensive and sucked.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 474
+    "chunk_length": 348
   },
   {
     "chunk_id": 1,
-    "text": "There are two that says \"new concept coming soon\". They are probably placeholders while they are looking for a new tenant. I wish Sbarro could come back because that was one of the few places around with decent cheap food, but I doubt they will be. Seems that the dining hall is going back to being called 605 Commons. I honestly don't really like that name, the \"605\" is mostly an arbitrary number aside from it being the building number for SCE.",
+    "text": "'t really care, the food was expensive and sucked. Crave Food Hall has closed\n\nThere will be a new restaurant called Spudcraft that mainly sells fries. The name sounds like a Minecraft server\n\nThere are two that says \"new concept coming soon\". They are probably placeholders while they are looking for a new tenant.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 447
+    "chunk_length": 315
   },
   {
     "chunk_id": 2,
-    "text": "r aside from it being the building number for SCE. Others:\n\nThe coffee shop in the library is coming back\n\nLast year I saw the website was updated to say the Dunkin Donuts is on the 1st floor and has Baskin Robbins. I was excited at first, but it seems that is a mistake and it still says that currently on the website. It would be nice if there was an ice cream place here though, aside from Chick Fil A.",
+    "text": "ceholders while they are looking for a new tenant. I wish Sbarro could come back because that was one of the few places around with decent cheap food, but I doubt they will be. Seems that the dining hall is going back to being called 605 Commons. I honestly don't really like that name, the \"605\" is mostly an arbitrary number aside from it being the building number for SCE.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 405
+    "chunk_length": 375
   },
   {
     "chunk_id": 3,
-    "text": "e cream place here though, aside from Chick Fil A. 53\n\u00b7\n40\nKreamyBeef\n\u2022\n2y ago\nSabarro and Circle burger 2024 let\u2019s do it\n\n37\nfrommyheadtomatoez\n\u2022\n2y ago\nSooo agree! Some days I just want a slice of pizza or a simple cheese burger! is that too much to ask? 14\nStephancevallos905\n\u2022\n2y ago\nOr Jim's 3 in SCE lol\n\n5\nPositive_Ad_3569\n\u2022\n2y ago\nThey need to add a michoacana at the inner circle ! 20\nmmcfly566\n\u2022\n2y ago\nWazwan was fucking shit, good riddance.",
+    "text": "r aside from it being the building number for SCE. Others:\n\nThe coffee shop in the library is coming back\n\nLast year I saw the website was updated to say the Dunkin Donuts is on the 1st floor and has Baskin Robbins. I was excited at first, but it seems that is a mistake and it still says that currently on the website.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 452
+    "chunk_length": 319
   },
   {
     "chunk_id": 4,
-    "text": "6\n\u2022\n2y ago\nWazwan was fucking shit, good riddance. Let's hope they negotiated something good\n\n19\nu/strawberry_milk80 avatar\nstrawberry_milk80\n\u2022\n2y ago\nI was so sad they closed au bon pain at BSB\n\n17\nu/EMD_F40PH avatar\nEMD_F40PH\nOP\n\u2022\n2y ago\nThey also gave out leftover food for free when they closed for the weekends on Fridays\n\n7\nbuddsri\n\u2022\n2y ago\nNoooooooo this can\u2019t be true \ud83d\ude2d\n\n3\nu/Aggravating-Height51 avatar\nAggravating-Height51\n\u2022\n2y ago\nThat\u2019s where I got all my lunch sandwiches from \ud83e\udd72\n\n2\nM_rizzy\n\u2022\n2y ago\nSay sike rn !!!!",
+    "text": "e and it still says that currently on the website. It would be nice if there was an ice cream place here though, aside from Chick Fil A. 53\n\u00b7\n40\n\nKreamyBeef\n\u2022\n2y ago\nSabarro and Circle burger 2024 let\u2019s do it\n\n37\nfrommyheadtomatoez\n\u2022\n2y ago\nSooo agree! Some days I just want a slice of pizza or a simple cheese burger! is that too much to ask?",
     "source": "source_10_reddit.txt",
-    "chunk_length": 527
+    "chunk_length": 343
   },
   {
     "chunk_id": 5,
-    "text": "wiches from \ud83e\udd72\n\n2\nM_rizzy\n\u2022\n2y ago\nSay sike rn !!!! STOP LYINGGGG NOO\ud83d\ude2d\n\n2\n\n2RepulsiveMinimum1\n\u2022\n2y ago\nNo offense but yall gonna be complaining no matter the food options lol. When it came to sbarro and circle burger there were a lack of healthy and diverse cuisines. If ca phe da didn't have the food under the heaters you guys would've complained about the long wait times especially before classes.",
+    "text": "r a simple cheese burger! is that too much to ask? 14\nStephancevallos905\n\u2022\n2y ago\nOr Jim's 3 in SCE lol\n\n5\nPositive_Ad_3569\n\u2022\n2y ago\nThey need to add a michoacana at the inner circle ! 20\nmmcfly566\n\u2022\n2y ago\nWazwan was fucking shit, good riddance.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 400
+    "chunk_length": 246
   },
   {
     "chunk_id": 6,
-    "text": "out the long wait times especially before classes. I have a feeling spudcraft is going to experience the same uic restaurant curse because they sell really niche food items and their lack of healthy options. What I do feel for tho is the workers at ca phe da and wazwan having no workplace after less than a year. Really sweet people and I wish fast food workers get more respect for their hard work. 13\nmrisko\n\u2022\n2y ago\nspudcraft is crazy\n\n9\nepiclyfe\n\u2022\n2y ago\nCoffee shop in library?!",
+    "text": "6\n\u2022\n2y ago\nWazwan was fucking shit, good riddance. Let's hope they negotiated something good\n\n19\navatar\nstrawberry_milk80\n\u2022\n2y ago\nI was so sad they closed au bon pain at BSB\n\n17\navatar\nEMD_F40PH\nOP\n\u2022\n2y ago\nThey also gave out leftover food for free when they closed for the weekends on Fridays\n\n7\nbuddsri\n\u2022\n2y ago\nNoooooooo this can\u2019t be true \ud83d\ude2d\n\n3\nu/Aggravating-Height51 avatar\nAggravating-Height51\n\u2022\n2y ago\nThat\u2019s where I got all my lunch sandwiches from \ud83e\udd72\n\n2\nM_rizzy\n\u2022\n2y ago\nSay sike rn !!!!",
     "source": "source_10_reddit.txt",
-    "chunk_length": 484
+    "chunk_length": 495
   },
   {
     "chunk_id": 7,
-    "text": "razy\n\n9\nepiclyfe\n\u2022\n2y ago\nCoffee shop in library?! 9\nu/captin_pengiun avatar\ncaptin_pengiun\n\u2022\n2y ago\nI think There used to be a Starbucks there. There's a poster still left on the wall where the service window is closed\n\n3\n\n1 more reply\nAccordingHat3425\n\u2022\n2y ago\nthey needa canes in dat bitch\n\n9\n\n1 more reply\nausland21\n\u2022\n2y ago\nI know this is old but bring back Argo Tea. \ud83d\ude2d\n\nAlso make all the currencies accepted everywhere.",
+    "text": "wiches from \ud83e\udd72\n\n2\nM_rizzy\n\u2022\n2y ago\nSay sike rn !!!! STOP LYINGGGG NOO\ud83d\ude2d\n\n2\n\n2 more replies\nRepulsiveMinimum1\n\u2022\n2y ago\nNo offense but yall gonna be complaining no matter the food options lol. When it came to sbarro and circle burger there were a lack of healthy and diverse cuisines.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 425
+    "chunk_length": 280
   },
   {
     "chunk_id": 8,
-    "text": "Also make all the currencies accepted everywhere. It would piss me off that some places took Dragon Dollars but not Flames Fare and vice versa. 6\nMental_Address\n\u2022\n2y ago\nHappy to tell you they accept flames fare everywhere now\n\n3\nu/EMD_F40PH avatar\nEMD_F40PH\nOP\n\u2022\n2y ago\nSubway and Moes still does not\n\n1\n\n31 more reply\nMental_Address\n\u2022\n2y ago\nSpudcraft is Mid at best\n\n3\nu/EMD_F40PH avatar\nEMD_F40PH\nOP\n\u2022\n2y ago\nOh it\u2019s already open? Is it like taste like soggy stale fries?",
+    "text": "there were a lack of healthy and diverse cuisines. If ca phe da didn't have the food under the heaters you guys would've complained about the long wait times especially before classes. I have a feeling spudcraft is going to experience the same uic restaurant curse because they sell really niche food items and their lack of healthy options.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 475
+    "chunk_length": 341
   },
   {
     "chunk_id": 9,
-    "text": "ady open? Is it like taste like soggy stale fries? 2\nStephancevallos905\n\u2022\n2y ago\nLol like that Thai Cafe. Who's idea was it to leave fries sitting in a bowl all day? 2\n\n1 more reply\n\n3txomas4\n\u2022\n2y ago\nwhere in the library is this coffee shop? 2\nCHITOWNBROWN1400\n\u2022\n2y ago\nThat Starbucks in the library used to be bussin back in the UIC glory days of 2010-2019. The coffee shops in both East and West Campus libraries died after Covid.",
+    "text": "iche food items and their lack of healthy options. What I do feel for tho is the workers at ca phe da and wazwan having no workplace after less than a year. Really sweet people and I wish fast food workers get more respect for their hard work. 13\nmrisko\n\u2022\n2y ago\nspudcraft is crazy\n\n9\nepiclyfe\n\u2022\n2y ago\nCoffee shop in library?!",
     "source": "source_10_reddit.txt",
-    "chunk_length": 433
+    "chunk_length": 327
   },
   {
     "chunk_id": 10,
-    "text": "h East and West Campus libraries died after Covid. Honestly, it's amazing seeing how much both East/West Campuses have died down post- 2020, West Campus has especially fallen off. 2\nValkarius1\n\u2022\n2y ago\nWait crave food hall is the one next to PNC bank office right? 1\n\n2Physical-Goose1338\n\u2022\n2y ago\naw i liked ca phe da\n\n1\nu/InevitableCourt1402 avatar\nInevitableCourt1402\n\u2022\n2y ago\nthey should switch out moes for chipotle",
+    "text": "razy\n\n9\nepiclyfe\n\u2022\n2y ago\nCoffee shop in library?! 9\navatar\ncaptin_pengiun\n\u2022\n2y ago\nI think There used to be a Starbucks there. There's a poster still left on the wall where the service window is closed\n\n3\n\n1 more reply\nAccordingHat3425\n\u2022\n2y ago\nthey needa canes in dat bitch\n\n9\n\n1 more reply\nausland21\n\u2022\n2y ago\nI know this is old but bring back Argo Tea.",
     "source": "source_10_reddit.txt",
-    "chunk_length": 419
+    "chunk_length": 355
   },
   {
     "chunk_id": 11,
-    "text": "Source: https://www. food around UIC ? what are some good food spots around uic? any type of food lol\ud83d\ude0b\nfood around UIC ? what are some good food spots around uic? any type of food lol\ud83d\ude0b\n\n35\n\u00b7\n33\nu/EverPassMedia avatar\nEverPassMedia\n\u2022\n\n\nNFL Sunday Ticket for Business \u2013 available exclusively on EverPass\n\n\nu/els1988 avatar\nels1988\n\u2022\n4y ago\nFontano's and Carm's. 31\nu/DecrepitGoose avatar\nDecrepitGoose\n\u2022\n4y ago\nVolcano was pretty good for quick cheap sushi.",
-    "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 455
+    "text": "2y ago\nI know this is old but bring back Argo Tea. \ud83d\ude2d\n\nAlso make all the currencies accepted everywhere. It would piss me off that some places took Dragon Dollars but not Flames Fare and vice versa.",
+    "source": "source_10_reddit.txt",
+    "chunk_length": 197
   },
   {
     "chunk_id": 12,
-    "text": "ago\nVolcano was pretty good for quick cheap sushi. Busy Burger and Karm\u2019s are favorites of mine as well. Jim\u2019s Original is also around there. You can also check out H-Mart for cool asian food. You have tons of options, check em out! 20\nu/thejustice32 avatar\nthejustice32\n\u2022\n4y ago\nI have personally witnessed fruit flies in the food at Volcano. Will never go back there.",
-    "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 369
+    "text": "Dragon Dollars but not Flames Fare and vice versa. 6\nMental_Address\n\u2022\n2y ago\nHappy to tell you they accept flames fare everywhere now\n\n3\navatar\nEMD_F40PH\nOP\n\u2022\n2y ago\nSubway and Moes still does not\n\n1\n\n3 more replies\n\n1 more reply\nMental_Address\n\u2022\n2y ago\nSpudcraft is Mid at best\n\n3\navatar\nEMD_F40PH\nOP\n\u2022\n2y ago\nOh it\u2019s already open? Is it like taste like soggy stale fries?",
+    "source": "source_10_reddit.txt",
+    "chunk_length": 373
   },
   {
     "chunk_id": 13,
+    "text": "ady open? Is it like taste like soggy stale fries? 2\nStephancevallos905\n\u2022\n2y ago\nLol like that Thai Cafe. Who's idea was it to leave fries sitting in a bowl all day? 2\n\n1 more reply\n\n3 more replies\ntxomas4\n\u2022\n2y ago\nwhere in the library is this coffee shop? 2\nCHITOWNBROWN1400\n\u2022\n2y ago\nThat Starbucks in the library used to be bussin back in the UIC glory days of 2010-2019.",
+    "source": "source_10_reddit.txt",
+    "chunk_length": 373
+  },
+  {
+    "chunk_id": 14,
+    "text": "be bussin back in the UIC glory days of 2010-2019. The coffee shops in both East and West Campus libraries died after Covid. Honestly, it's amazing seeing how much both East/West Campuses have died down post- 2020, West Campus has especially fallen off. 2\nValkarius1\n\u2022\n2y ago\nWait crave food hall is the one next to PNC bank office right?",
+    "source": "source_10_reddit.txt",
+    "chunk_length": 338
+  },
+  {
+    "chunk_id": 15,
+    "text": "ood hall is the one next to PNC bank office right? 1\n\n2 more replies\nPhysical-Goose1338\n\u2022\n2y ago\naw i liked ca phe da\n\n1\navatar\nInevitableCourt1402\n\u2022\n2y ago\nthey should switch out moes for chipotle",
+    "source": "source_10_reddit.txt",
+    "chunk_length": 197
+  },
+  {
+    "chunk_id": 16,
+    "text": "food around UIC ? what are some good food spots around uic? any type of food lol\ud83d\ude0b\nfood around UIC ? what are some good food spots around uic? any type of food lol\ud83d\ude0b\n\n35\n\u00b7\n33\n\navatar\nels1988\n\u2022\n4y ago\nFontano's and Carm's. 31\navatar\nDecrepitGoose\n\u2022\n4y ago\nVolcano was pretty good for quick cheap sushi. Busy Burger and Karm\u2019s are favorites of mine as well. Jim\u2019s Original is also around there.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 390
+  },
+  {
+    "chunk_id": 17,
+    "text": "mine as well. Jim\u2019s Original is also around there. You can also check out H-Mart for cool asian food. You have tons of options, check em out! 20\navatar\nthejustice32\n\u2022\n4y ago\nI have personally witnessed fruit flies in the food at Volcano. Will never go back there.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 263
+  },
+  {
+    "chunk_id": 18,
     "text": "in the food at Volcano. Will never go back there. 4\n\n1 more reply\ntopolojack\n\u2022\n4y ago\nghareeb nawaz is king\n\n35\nBlurredSight\n\u2022\n4y ago\nPretty bad compared to nearby places except you will never be able to beat the $8 massive servings\n\n7\nsctwinmom\n\u2022\n4y ago\nThe biryani provides like 4 normal servings. What other Indian/Pakistani places do you recommend?",
     "source": "source_1_reddit_food_around_uic.txt",
     "chunk_length": 352
   },
   {
-    "chunk_id": 14,
-    "text": "at other Indian/Pakistani places do you recommend? 4\n\n3u/TheSkyIsBeautiful avatar\nTheSkyIsBeautiful\n\u2022\n4y ago\n-Kurimu for dessert, lots of east asian flavors you won't experience anywhere else aside from H-Mart. Mario's Italian Ice, some people really like it, but others like I don't care for it. I think it kinda taste bad lol\n\n-Thai Bowl, Siam Rice, Yummy Thai\n\n-Jim's Original for late night grease.",
+    "chunk_id": 19,
+    "text": "at other Indian/Pakistani places do you recommend? 4\n\n3 more replies\navatar\nTheSkyIsBeautiful\n\u2022\n4y ago\n-Kurimu for dessert, lots of east asian flavors you won't experience anywhere else aside from H-Mart. Mario's Italian Ice, some people really like it, but others like I don't care for it. I think it kinda taste bad lol\n\n-Thai Bowl, Siam Rice, Yummy Thai\n\n-Jim's Original for late night grease.",
     "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 402
+    "chunk_length": 396
   },
   {
-    "chunk_id": 15,
+    "chunk_id": 20,
     "text": "Yummy Thai\n\n-Jim's Original for late night grease. Great as a college kid, but I recently went back after years of graduating, and I felt absolutely disgusted after eating.",
     "source": "source_1_reddit_food_around_uic.txt",
     "chunk_length": 172
   },
   {
-    "chunk_id": 16,
+    "chunk_id": 21,
     "text": "ing, and I felt absolutely disgusted after eating. Fries are the best there though can't beat it\n\n-Al's Beef, its aight for me, but I don't like italian beef that much in general\n\n-Gather's Tea Bar for boba that rivals and beats many other places in Chinatown\n\n-Joy Yee if they ever open back up had decent asian foood\n\n-Chain restaurants: Steak n Shake, Popeyes, Chipotle, Portillos, Giordanos, Rosatis, Chick-fil-a, wendys\n\nIf you're willing to go a bit south Pilsen is also right there, tons of authentic mexican food, literally pick any restaurant and you won't be disappointed.",
     "source": "source_1_reddit_food_around_uic.txt",
     "chunk_length": 582
   },
   {
-    "chunk_id": 17,
-    "text": "pick any restaurant and you won't be disappointed. 15\nu/ClubWPT_Gold avatar\nu/ClubWPT_Gold\n\u2022\n\n\nThe number 1 competitive poker site. Train and play with us. Play Now\n\n\nThe_Real_Robo\n\u2022\n4y ago\nMr. Greek Gyros is my goto\n\n8\nu/s3rgioru3las avatar\ns3rgioru3las\n\u2022\n4y ago\nTropical Cafe, Busy Burger, greek food in greek town, al\u2019s Italian beef, fontano\u2019s\n\n7\nu/OoglieBooglie93 avatar\nOoglieBooglie93\n\u2022\n4y ago\nI liked going to Giordano's occasionally, but it's not super cheap.",
+    "chunk_id": 22,
+    "text": "pick any restaurant and you won't be disappointed. 15\navatar\nThe number 1 competitive poker site. Train and play with us. Play Now\nwptgold.com\n\nThe_Real_Robo\n\u2022\n4y ago\nMr.",
     "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 467
+    "chunk_length": 170
   },
   {
-    "chunk_id": 18,
-    "text": "Giordano's occasionally, but it's not super cheap. Portillo's has good hot dogs, although some people say they've declined in quality over the years. 12\nChicity044\n\u2022\n4y ago\nI like pompei. I have heard good things about Conte Di Savoia\n\n4\n[deleted]\n\u2022\n4y ago\nConte di savoia make good subs, plus you can pick up some things at their deli. 2\nChicity044\n\u2022\n4y ago\nSeems high quality but affordable from what I\u2019ve seen\n\n4\nevmendoza37\n\u2022\n4y ago\nUse your u-pass and take the 8 bus down the South Kawa.",
+    "chunk_id": 23,
+    "text": ". Play Now\nwptgold.com\n\nThe_Real_Robo\n\u2022\n4y ago\nMr. Greek Gyros is my goto\n\n8\navatar\ns3rgioru3las\n\u2022\n4y ago\nTropical Cafe, Busy Burger, greek food in greek town, al\u2019s Italian beef, fontano\u2019s\n\n7\navatar\nOoglieBooglie93\n\u2022\n4y ago\nI liked going to Giordano's occasionally, but it's not super cheap. Portillo's has good hot dogs, although some people say they've declined in quality over the years.",
     "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 492
+    "chunk_length": 390
   },
   {
-    "chunk_id": 19,
+    "chunk_id": 24,
+    "text": "le say they've declined in quality over the years. 12\nChicity044\n\u2022\n4y ago\nI like pompei. I have heard good things about Conte Di Savoia\n\n4\n[deleted]\n\u2022\n4y ago\nConte di savoia make good subs, plus you can pick up some things at their deli. 2\nChicity044\n\u2022\n4y ago\nSeems high quality but affordable from what I\u2019ve seen\n\n4\nevmendoza37\n\u2022\n4y ago\nUse your u-pass and take the 8 bus down the South Kawa.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 393
+  },
+  {
+    "chunk_id": 25,
     "text": "our u-pass and take the 8 bus down the South Kawa. Best sushi at a moderate price! Recommend the dynamite roll! If you don\u2019t mind supermarket sushi, my family always goes to Mariano\u2019s to get the giant platers of sushi for like $40. It\u2019s definitely a steal and they taste pretty good too for being from the grocery store! There\u2019s also Portillos and a bunch of other chains down on Roosevelt and canal.",
     "source": "source_1_reddit_food_around_uic.txt",
     "chunk_length": 400
   },
   {
-    "chunk_id": 20,
-    "text": "bunch of other chains down on Roosevelt and canal. 4\nu/Typeform avatar\nu/Typeform\n\u2022\n\n\n\n\n\nsood571456\n\u2022\n4y ago\nAs an Indian, ghareeb is GARBAGE, curry on fire is amazing, ML kitchen is a hidden gem, portillos, bdubs, busy burger, karms! 7\nu/TheSkyIsBeautiful avatar\nTheSkyIsBeautiful\n\u2022\n4y ago\nYou're right it is, however I think their price point makes it very attractive to broke college students. Before covid, they had meals for $5-$7, and they were delicious.",
+    "chunk_id": 26,
+    "text": "bunch of other chains down on Roosevelt and canal. 4\n\nWhen the experience feels better, people say more. \ud83d\udcac\nLearn More\n\nsood571456\n\u2022\n4y ago\nAs an Indian, ghareeb is GARBAGE, curry on fire is amazing, ML kitchen is a hidden gem, portillos, bdubs, busy burger, karms!",
     "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 461
+    "chunk_length": 264
   },
   {
-    "chunk_id": 21,
+    "chunk_id": 27,
+    "text": "hidden gem, portillos, bdubs, busy burger, karms! 7\navatar\nTheSkyIsBeautiful\n\u2022\n4y ago\nYou're right it is, however I think their price point makes it very attractive to broke college students. Before covid, they had meals for $5-$7, and they were delicious.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 256
+  },
+  {
+    "chunk_id": 28,
     "text": "they had meals for $5-$7, and they were delicious. And although I do like Curry on Fire (mango butter chicken is so goood), 3x a year or so I'll have a nostalgia day and buy some butter chicken and a side rice from Ghareeb.",
     "source": "source_1_reddit_food_around_uic.txt",
     "chunk_length": 223
   },
   {
-    "chunk_id": 22,
+    "chunk_id": 29,
     "text": "some butter chicken and a side rice from Ghareeb. 6\nsood571456\n\u2022\n4y ago\nGhareeb also (the one time I had it as a freshman) gave me the worst food poisoning ever known to man so that is also my bias coming out \ud83d\ude02\n\n2\nqu2qu2\n\u2022\n4y ago\nGood Greek food near by\n\n2\nProtonati0n\n\u2022\n4y ago\nThere's some great restaurants about 3/4s of a mile north of campus on Randolph.",
     "source": "source_1_reddit_food_around_uic.txt",
     "chunk_length": 358
   },
   {
-    "chunk_id": 23,
-    "text": "about 3/4s of a mile north of campus on Randolph. Many are towards the pricier side but I've not been disappointed with the ones that I've been to\n\n2\nu/The_Forgotten_King avatar\nThe_Forgotten_King\n\u2022\n4y ago\nThe Moe's Southwest Chicken inside SCE is pretty good, they make a solid burrito and other similar foods\n\nAlso the Circle Burger across the room makes a good steak sandwich but it is pretty greasy. I guess these aren't really \"around\" UIC, more \"inside\" UIC.",
-    "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 464
-  },
-  {
-    "chunk_id": 24,
-    "text": "ese aren't really \"around\" UIC, more \"inside\" UIC. 2\nAngry_Foamy\n\u2022\n4y ago\nIt\u2019s a bit of a walk but JP Grazianos has amazing Italian sandwiches with vegetarian options. It\u2019s a wait but also on Randolph is Au Cheval which has an award winning Cheeseburger. Again, a bit of a hike but Strings in Chinatown has fantastic ramen. If you walk east east of Halsted on Jackson a few blocks, you can hit up Walker Bros Pancake House which is a Chicago icon chain and have a solid greedy spoon concept.",
-    "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 491
-  },
-  {
-    "chunk_id": 25,
-    "text": "icon chain and have a solid greedy spoon concept. Cheers\n\n2\nu/Candid-Disaster2541 avatar\nCandid-Disaster2541\n\u2022\n4y ago\nI'm so surprised nobody has mentioned Tufano's Vernon Park Tap. Great old school Italian joint\n\n2\ncantfindausernamefor\n\u2022\n4y ago\nIDOF, Dunkin, Starbucks, subway, Jimmy Johns papa John's, tai chi(boba). Some new restaurant that opened up in front of Dunkin prob Indian.",
-    "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 385
-  },
-  {
-    "chunk_id": 26,
-    "text": "ant that opened up in front of Dunkin prob Indian. 3\nu/Uncertain_Economics avatar\nUncertain_Economics\n\u2022\n4y ago\nThai Bowl, their beef curry noodles and panang curry beef are amazing\n\n3\n[deleted]\n\u2022\n4y ago\nI go to the student center and get chik fil A or subway. Theres also a burger, pizza, southwest, panda express, a dunkin and a food cart with dumplings and stuff. And a dining hall or something, IDK i never walked in there.",
-    "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 426
-  },
-  {
-    "chunk_id": 27,
-    "text": "ng hall or something, IDK i never walked in there. 3\n\nTrick_Somewhere_456\n\u2022\n4y ago\nevmendoza37\n\u2022\n4y ago\nUse your u-pass and take the 8 bus down the South Kawa. Best sushi at a moderate price! Recommend the dynamite roll! 1\n[deleted]\n\u2022\n4y ago\nPollo Express has the best grilled chicken in the city but it's down in Pilsen - not that far if you have a bike.",
-    "source": "source_1_reddit_food_around_uic.txt",
-    "chunk_length": 355
-  },
-  {
-    "chunk_id": 28,
-    "text": "Source: https://www. Lunch?!?!? Are there cheap and tasty lunch spots around campus? Walking distance? I finish classes around 3:00 and I find myself wanting to eat before I hide away in the library. I am commuter BTW. 19\n\u00b7\n44\nu/OpenAI avatar\nOpenAI\n\u2022\n\n\nDon\u2019t limit your flow. Move your build to Codex and pick up w\n\n\nrockspud\n\u2022\n9mo ago\nJim's original \ud83e\udd11\n\n14\nu/FabulousCoconut19 avatar\nFabulousCoconut19\n\u2022\n9mo ago\nExpress grill is better\n\n-1\nu/Fair-Talk1549 avatar\nFair-Talk1549\n\u2022\n9mo ago\nFontanos!",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 497
-  },
-  {
-    "chunk_id": 29,
-    "text": "-Talk1549 avatar\nFair-Talk1549\n\u2022\n9mo ago\nFontanos! 25\nu/souper_soups avatar\nsouper_soups\n\u2022\n9mo ago\nThe soup is \ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73\ud83d\udc4c\ud83c\udffc\ud83d\ude18\n\n2\nu/lord_alexxx avatar\nlord_alexxx\n\u2022\n9mo ago\nGhareeb\n\n33\ns1ddarth\n\u2022\n9mo ago\nI really like ML Kitchen on Taylor Street. They have some decently priced Daily Combo meals & offer a 10% discount to UIC Students.",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 327
-  },
-  {
     "chunk_id": 30,
-    "text": "ombo meals & offer a 10% discount to UIC Students. 10\nNo-Championship-4\n\u2022\n9mo ago\nCarm's is great, right off campus\n\n21\nCurlygirly16_\n\u2022\n9mo ago\nAlso carms has a lil pop up by BSB with deals\n\n4\naSiK00\n\u2022\n9mo ago\nI don\u2019t think they have their sandwiches tho, and I love those when I am vegetarian\n\n1\nu/Preply avatar\nu/Preply\n\u2022\n\n\nFeel confident in any subject with the best tutor for you. Start learning and watch yourself become better!",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 433
+    "text": "about 3/4s of a mile north of campus on Randolph. Many are towards the pricier side but I've not been disappointed with the ones that I've been to\n\n2\navatar\nThe_Forgotten_King\n\u2022\n4y ago\nThe Moe's Southwest Chicken inside SCE is pretty good, they make a solid burrito and other similar foods\n\nAlso the Circle Burger across the room makes a good steak sandwich but it is pretty greasy.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 382
   },
   {
     "chunk_id": 31,
-    "text": ". Start learning and watch yourself become better! Vivek\nA Certified OET Preparation Provider for Medicine/Nursing/Pharmacy/Veterinary/Dietetics/Physiotherapy, Medicine Residents, Observership and Fellowship Interviews/ Engineering Interviews, IELTS, English Spoken/Grammar, Hindi Language\nLearn More\n\nu/jh0_ avatar\njh0_\n\u2022\n9mo ago\nGo anywhere along Taylor St for a good lunch that's in walking distance.",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 403
+    "text": "kes a good steak sandwich but it is pretty greasy. I guess these aren't really \"around\" UIC, more \"inside\" UIC. 2\nAngry_Foamy\n\u2022\n4y ago\nIt\u2019s a bit of a walk but JP Grazianos has amazing Italian sandwiches with vegetarian options. It\u2019s a wait but also on Randolph is Au Cheval which has an award winning Cheeseburger. Again, a bit of a hike but Strings in Chinatown has fantastic ramen.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 384
   },
   {
     "chunk_id": 32,
-    "text": "or St for a good lunch that's in walking distance. Otherwise, go on r/chicagofood and use your Upass for good food all over chicago\n\n23\nTheJackasaur11\n\u2022\n9mo ago\nit seems like it would automatically be not good since it\u2019s on campus, but I really like Moe\u2019s in the inner circle\n\noff campus though I\u2019d say take the train to explore and find some better food places cuz the ones nearby aren\u2019t the best\n\nbusy burger is good though imo\n\n5\nu/nwadumtenn avatar\nnwadumtenn\n\u2022\n9mo ago\nJarabe!",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 481
+    "text": "hike but Strings in Chinatown has fantastic ramen. If you walk east east of Halsted on Jackson a few blocks, you can hit up Walker Bros Pancake House which is a Chicago icon chain and have a solid greedy spoon concept. Cheers\n\n2\nu/Candid-Disaster2541 avatar\nCandid-Disaster2541\n\u2022\n4y ago\nI'm so surprised nobody has mentioned Tufano's Vernon Park Tap.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 350
   },
   {
     "chunk_id": 33,
-    "text": "5\nu/nwadumtenn avatar\nnwadumtenn\n\u2022\n9mo ago\nJarabe! it\u2019s a mexican spot on taylor (across from al\u2019s) and i strongly recommend getting their queso - SO GOOD\n\n5\nu/kandors avatar\nkandors\n\u2022\n9mo ago\nThis is the spot\n\n2\nSergeantTeabag\n\u2022\n9mo ago\nVouch. Some of the best quesabirria I've had, and it was pretty damn cheap too. If you flash them your student ID, you get a 10% discount as of the last time I went there. 2\n\n3kdnx-wy\n\u2022\n9mo ago\nBusy Burger is good but not cheap. H-Mart food court is great.",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 494
+    "text": "sed nobody has mentioned Tufano's Vernon Park Tap. Great old school Italian joint\n\n2\ncantfindausernamefor\n\u2022\n4y ago\nIDOF, Dunkin, Starbucks, subway, Jimmy Johns papa John's, tai chi(boba). Some new restaurant that opened up in front of Dunkin prob Indian.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 254
   },
   {
     "chunk_id": 34,
-    "text": "is good but not cheap. H-Mart food court is great. Those have been my go-tos\n\nEdit: La Malinche\n\n4\n\n4u/The_Forgotten_King avatar\nThe_Forgotten_King\n\u2022\n9mo ago\nFontano's Subs, Jim's Original, Moe's Southwest Grill are my go-to for food on/near East Campus. 4\nMaintenanceFormal960\n\u2022\n9mo ago\nJim\u2019s! $6 meals with fries free on every order Only place in Chicago that beats inflation\n\n4\nu/Ok_Sun7013 avatar\nu/Ok_Sun7013\n\u2022\n\n\nr/devops will either love this or roast us.",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 461
+    "text": "ant that opened up in front of Dunkin prob Indian. 3\navatar\nUncertain_Economics\n\u2022\n4y ago\nThai Bowl, their beef curry noodles and panang curry beef are amazing\n\n3\n[deleted]\n\u2022\n4y ago\nI go to the student center and get chik fil A or subway. Theres also a burger, pizza, southwest, panda express, a dunkin and a food cart with dumplings and stuff.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 343
   },
   {
     "chunk_id": 35,
-    "text": "13\n\u2022\n\n\nr/devops will either love this or roast us. Either ways, check us out\n\n\njitterbugjackie\n\u2022\n9mo ago\nMr Greek gyros is like a block or two north of the ARC and they have been my go to\n\n4\nu/abbudaddy avatar\nabbudaddy\n\u2022\n9mo ago\nyess, awesome gyros and huge portions\n\n2\nrebvoded\n\u2022\n9mo ago\nH mart\n\n6\nu/Thin_University_8074 avatar\nThin_University_8074\n\u2022\n9mo ago\nZues restaurant is pretty good\n\n3\nrmill127\n\u2022\n9mo ago\nFantano\u2019s is the undisputed champion of off campus quick cheap food\n\n5\nEtnasay\n\u2022\n9mo a",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 500
+    "text": "a dunkin and a food cart with dumplings and stuff. And a dining hall or something, IDK i never walked in there. 3\n\nTrick_Somewhere_456\n\u2022\n4y ago\nevmendoza37\n\u2022\n4y ago\nUse your u-pass and take the 8 bus down the South Kawa. Best sushi at a moderate price! Recommend the dynamite roll!",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 281
   },
   {
     "chunk_id": 36,
-    "text": "127\n\u2022\n9mo ago\nFantano\u2019s is the undisputed champion of off campus quick cheap food\n\n5\nEtnasay\n\u2022\n9mo ago\nTry Jerky Jerk, it\u2019s not crazy far from campus and the food is great\n\n2\n\n1 more reply\nShrimpgan1\n\u2022\n9mo ago\nOn van buren (north of the blue line stop) right next to the jimmy johns there\u2019s a place called primos pizza their lunch special is 6 bucks it\u2019s a huge ass slice I\u2019m talking like 1/3 a whole pizza kinda slice and a soda\n\n2\nu/biakratos avatar\nbiakratos\n\u2022\n9mo ago\nI like cairo kebab on halste",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 500
+    "text": "at a moderate price! Recommend the dynamite roll! 1\n[deleted]\n\u2022\n4y ago\nPollo Express has the best grilled chicken in the city but it's down in Pilsen - not that far if you have a bike.",
+    "source": "source_1_reddit_food_around_uic.txt",
+    "chunk_length": 184
   },
   {
     "chunk_id": 37,
-    "text": " pizza kinda slice and a soda\n\n2\nu/biakratos avatar\nbiakratos\n\u2022\n9mo ago\nI like cairo kebab on halsted and Maxwell\n\n2\nyuesima\n\u2022\n9mo ago\nLots of good mentions in the commentsz Bahn Mi on Maxwell and Halsted is good too, closer to TBH classrooms.",
+    "text": "Lunch?!?!? Are there cheap and tasty lunch spots around campus? Walking distance? I finish classes around 3:00 and I find myself wanting to eat before I hide away in the library. I am commuter BTW. 19\n\u00b7\n44\navatar\nOpenAI\n\nDon\u2019t limit your flow. Move your build to Codex and pick up where you left off. Designed to be token efficient.",
     "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 243
+    "chunk_length": 332
   },
   {
     "chunk_id": 38,
-    "text": "and Halsted is good too, closer to TBH classrooms. 2\nu/LilFlushot avatar\nLilFlushot\n\u2022\n9mo ago\nbest bang for your buck is taco bell of taylor street. Super clean and mostly empty. 2\nu/Exoticxiaoplayer avatar\nExoticxiaoplayer\n\u2022\n9mo ago\nngl most of the food here is ass i would rather take the blue line train to grab food\n\n2\nJaasPlay\n\u2022\n9mo ago\nYou can eat for $10 at Sushi Do in Inner Circle.",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 390
-  },
-  {
-    "chunk_id": 39,
-    "text": "o\nYou can eat for $10 at Sushi Do in Inner Circle. Way better than Panda in my opinion\n\n1\nNinjixu\n\u2022\n9mo ago\nJim\u2019s Original had a burger, fries, and a drink (if you show your student ID) for ~$5 or $6\n\n1\nu/Obvious_Oven_8082 avatar\nObvious_Oven_8082\n\u2022\n9mo ago\nThai Bowl! If you pay with cash and show your UIC ID they give a small discount :). On taylor street like a 10 minute walk from SES. 1\nCreative-Suit-9864\n\u2022\n9mo ago\nNot walking distance but Yvolina\u2019s Tamales is so good.",
-    "source": "source_2_reddit_cheap_lunch.txt",
-    "chunk_length": 476
-  },
-  {
-    "chunk_id": 40,
-    "text": "walking distance but Yvolina\u2019s Tamales is so good. I think the tamales dinner is like $12-13? Or $8 for a tamale. And sooo filling, tamales are huge bc they\u2019re banana leaf. You just take the 8 bus to 18th street, 8 stops, takes like 10 mins to get there\n\n1\nJDvbs\n\u2022\n9mo ago\nPhilly\u2019s Best Cheesesteaks on West Jackson. Like $20 gets you a massive, hot philly cheesesteak.",
+    "text": "here you left off. Designed to be token efficient. rockspud\n\u2022\n9mo ago\nJim's original \ud83e\udd11\n\n14\navatar\nFabulousCoconut19\n\u2022\n9mo ago\nExpress grill is better\n\n-1\nu/Fair-Talk1549 avatar\nFair-Talk1549\n\u2022\n9mo ago\nFontanos! 25\navatar\nsouper_soups\n\u2022\n9mo ago\nThe soup is \ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73\ud83d\udc4c\ud83c\udffc\ud83d\ude18\n\n2\navatar\nlord_alexxx\n\u2022\n9mo ago\nGhareeb\n\n33\ns1ddarth\n\u2022\n9mo ago\nI really like ML Kitchen on Taylor Street.",
     "source": "source_2_reddit_cheap_lunch.txt",
     "chunk_length": 369
   },
   {
+    "chunk_id": 39,
+    "text": "9mo ago\nI really like ML Kitchen on Taylor Street. They have some decently priced Daily Combo meals & offer a 10% discount to UIC Students.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 139
+  },
+  {
+    "chunk_id": 40,
+    "text": "ombo meals & offer a 10% discount to UIC Students. 10\nNo-Championship-4\n\u2022\n9mo ago\nCarm's is great, right off campus\n\n21\nCurlygirly16_\n\u2022\n9mo ago\nAlso carms has a lil pop up by BSB with deals\n\n4\naSiK00\n\u2022\n9mo ago\nI don\u2019t think they have their sandwiches tho, and I love those when I am vegetarian\n\n1\navatar\nFeel confident in any subject with the best tutor for you.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 362
+  },
+  {
     "chunk_id": 41,
+    "text": "fident in any subject with the best tutor for you. Start learning and watch yourself become better!",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 99
+  },
+  {
+    "chunk_id": 42,
+    "text": ". Start learning and watch yourself become better! Vivek\nA Certified OET Preparation Provider for Medicine/Nursing/Pharmacy/Veterinary/Dietetics/Physiotherapy, Medicine Residents, Observership and Fellowship Interviews/ Engineering Interviews, IELTS, English Spoken/Grammar, Hindi Language\nLearn More\n\navatar\njh0_\n\u2022\n9mo ago\nGo anywhere along Taylor St for a good lunch that's in walking distance.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 396
+  },
+  {
+    "chunk_id": 43,
+    "text": "or St for a good lunch that's in walking distance. Otherwise, go on r/chicagofood and use your Upass for good food all over chicago\n\n23\nTheJackasaur11\n\u2022\n9mo ago\nit seems like it would automatically be not good since it\u2019s on campus, but I really like Moe\u2019s in the inner circle\n\noff campus though I\u2019d say take the train to explore and find some better food places cuz the ones nearby aren\u2019t the best\n\nbusy burger is good though imo\n\n5\navatar\nnwadumtenn\n\u2022\n9mo ago\nJarabe!",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 468
+  },
+  {
+    "chunk_id": 44,
+    "text": "though imo\n\n5\navatar\nnwadumtenn\n\u2022\n9mo ago\nJarabe! it\u2019s a mexican spot on taylor (across from al\u2019s) and i strongly recommend getting their queso - SO GOOD\n\n5\navatar\nkandors\n\u2022\n9mo ago\nThis is the spot\n\n2\nSergeantTeabag\n\u2022\n9mo ago\nVouch. Some of the best quesabirria I've had, and it was pretty damn cheap too. If you flash them your student ID, you get a 10% discount as of the last time I went there.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 398
+  },
+  {
+    "chunk_id": 45,
+    "text": "t a 10% discount as of the last time I went there. 2\n\n3 more replies\nkdnx-wy\n\u2022\n9mo ago\nBusy Burger is good but not cheap. H-Mart food court is great. Those have been my go-tos\n\nEdit: La Malinche\n\n4\n\n4 more replies\navatar\nThe_Forgotten_King\n\u2022\n9mo ago\nFontano's Subs, Jim's Original, Moe's Southwest Grill are my go-to for food on/near East Campus. 4\nMaintenanceFormal960\n\u2022\n9mo ago\nJim\u2019s!",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 386
+  },
+  {
+    "chunk_id": 46,
+    "text": "st Campus. 4\nMaintenanceFormal960\n\u2022\n9mo ago\nJim\u2019s! $6 meals with fries free on every order Only place in Chicago that beats inflation\n\n4\navatar\nr/devops will either love this or roast us.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 187
+  },
+  {
+    "chunk_id": 47,
+    "text": "avatar\nr/devops will either love this or roast us. Either ways, check us out\n\njitterbugjackie\n\u2022\n9mo ago\nMr Greek gyros is like a block or two north of the ARC and they have been my go to\n\n4\navatar\nabbudaddy\n\u2022\n9mo ago\nyess, awesome gyros and huge portions\n\n2\nrebvoded\n\u2022\n9mo ago\nH mart\n\n6\navatar\nThin_University_8074\n\u2022\n9mo ago\nZues restaurant is pretty good\n\n3\nrmill127\n\u2022\n9mo ago\nFantano\u2019s is the undisputed champion of off campus quick cheap food\n\n5\nEtnasay\n\u2022\n9mo ago\nTry Jerky Jerk, it\u2019s not crazy fa",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 500
+  },
+  {
+    "chunk_id": 48,
+    "text": "puted champion of off campus quick cheap food\n\n5\nEtnasay\n\u2022\n9mo ago\nTry Jerky Jerk, it\u2019s not crazy far from campus and the food is great\n\n2\n\n1 more reply\nShrimpgan1\n\u2022\n9mo ago\nOn van buren (north of the blue line stop) right next to the jimmy johns there\u2019s a place called primos pizza their lunch special is 6 bucks it\u2019s a huge ass slice I\u2019m talking like 1/3 a whole pizza kinda slice and a soda\n\n2\navatar\nbiakratos\n\u2022\n9mo ago\nI like cairo kebab on halsted and Maxwell\n\n2\nyuesima\n\u2022\n9mo ago\nLots of good ",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 500
+  },
+  {
+    "chunk_id": 49,
+    "text": "tar\nbiakratos\n\u2022\n9mo ago\nI like cairo kebab on halsted and Maxwell\n\n2\nyuesima\n\u2022\n9mo ago\nLots of good mentions in the commentsz Bahn Mi on Maxwell and Halsted is good too, closer to TBH classrooms.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 195
+  },
+  {
+    "chunk_id": 50,
+    "text": "and Halsted is good too, closer to TBH classrooms. 2\navatar\nLilFlushot\n\u2022\n9mo ago\nbest bang for your buck is taco bell of taylor street. Super clean and mostly empty. 2\navatar\nExoticxiaoplayer\n\u2022\n9mo ago\nngl most of the food here is ass i would rather take the blue line train to grab food\n\n2\nJaasPlay\n\u2022\n9mo ago\nYou can eat for $10 at Sushi Do in Inner Circle.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 358
+  },
+  {
+    "chunk_id": 51,
+    "text": "o\nYou can eat for $10 at Sushi Do in Inner Circle. Way better than Panda in my opinion\n\n1\nNinjixu\n\u2022\n9mo ago\nJim\u2019s Original had a burger, fries, and a drink (if you show your student ID) for ~$5 or $6\n\n1\navatar\nObvious_Oven_8082\n\u2022\n9mo ago\nThai Bowl! If you pay with cash and show your UIC ID they give a small discount :). On taylor street like a 10 minute walk from SES.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 370
+  },
+  {
+    "chunk_id": 52,
+    "text": ". On taylor street like a 10 minute walk from SES. 1\nCreative-Suit-9864\n\u2022\n9mo ago\nNot walking distance but Yvolina\u2019s Tamales is so good. I think the tamales dinner is like $12-13? Or $8 for a tamale. And sooo filling, tamales are huge bc they\u2019re banana leaf.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 258
+  },
+  {
+    "chunk_id": 53,
+    "text": "filling, tamales are huge bc they\u2019re banana leaf. You just take the 8 bus to 18th street, 8 stops, takes like 10 mins to get there\n\n1\nJDvbs\n\u2022\n9mo ago\nPhilly\u2019s Best Cheesesteaks on West Jackson. Like $20 gets you a massive, hot philly cheesesteak.",
+    "source": "source_2_reddit_cheap_lunch.txt",
+    "chunk_length": 246
+  },
+  {
+    "chunk_id": 54,
     "text": "ke $20 gets you a massive, hot philly cheesesteak. Prob my favorite spot when its cold outside\n\n1\nu/Potential-Position75 avatar\nPotential-Position75\n\u2022\n9mo ago\nMomo world samosas are insane\n\n1\nariotposting\n\u2022\n9mo ago\nFONTANOS!! 1",
     "source": "source_2_reddit_cheap_lunch.txt",
     "chunk_length": 227
   },
   {
-    "chunk_id": 42,
-    "text": "Source: https://www. Favorite and least favorite places for food around campus? Places I like:\n\nJim's Original - Probably my favorite fast food restaurant, the burgers are awesome. They're also open late night. Their next door competitor Express Grill is also very good IMO. Gharab Naweez - Prices are not bad at all. The biryani plates are very big, enough for two meals if you save half in a takeout box for later. Mochinut - I like their hot dogs and donuts, with a variety of flavors to choose.",
+    "chunk_id": 55,
+    "text": "Favorite and least favorite places for food around campus? Places I like:\n\nJim's Original - Probably my favorite fast food restaurant, the burgers are awesome. They're also open late night. Their next door competitor Express Grill is also very good IMO. Gharab Naweez - Prices are not bad at all. The biryani plates are very big, enough for two meals if you save half in a takeout box for later.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 498
+    "chunk_length": 395
   },
   {
-    "chunk_id": 43,
-    "text": "s and donuts, with a variety of flavors to choose. Zeus Restaurant - Their gyros are pretty good, and prices are reasonable. High Five Ramen - Kind of a stretch, but probably the best ramen around. Pricy though. Costco - The food court doesn't check membership so you can get food without a membership. Even with inflation, the dog and soda combo is still $1.50. For some reason I also like the taste and texture of their soft serve ice cream. Places I dislike:\n\nTaco Burrito King - Overrated IMO.",
+    "chunk_id": 56,
+    "text": "meals if you save half in a takeout box for later. Mochinut - I like their hot dogs and donuts, with a variety of flavors to choose. Zeus Restaurant - Their gyros are pretty good, and prices are reasonable. High Five Ramen - Kind of a stretch, but probably the best ramen around. Pricy though. Costco - The food court doesn't check membership so you can get food without a membership.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 497
+    "chunk_length": 384
   },
   {
-    "chunk_id": 44,
-    "text": "ces I dislike:\n\nTaco Burrito King - Overrated IMO. Food is mid, tacos meat is very wet and runny and I can't really explain it but the flavor isn't the best. Only good thing is they're open very late and very close walk from ARC. Joy Yee - I previously went to a different location in the suburbs a few times and the food wasn't that good. The one near UIC recently reopened, so I figured I try it.",
+    "chunk_id": 57,
+    "text": "mbership so you can get food without a membership. Even with inflation, the dog and soda combo is still $1.50. For some reason I also like the taste and texture of their soft serve ice cream. Places I dislike:\n\nTaco Burrito King - Overrated IMO. Food is mid, tacos meat is very wet and runny and I can't really explain it but the flavor isn't the best.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 398
+    "chunk_length": 352
   },
   {
-    "chunk_id": 45,
-    "text": "near UIC recently reopened, so I figured I try it. Pad thai was dry and rather bland, and boba tea wasn't really that good either (maybe better than the MyCha vending machines). United Table (SCE dining hall) - In fall 2022 semester the food was better. But now they don't change the menu as often as before, and on weekends the food is very mediocre. JST is better IMO, I'll probably write a separate thread about it sometime later.",
+    "chunk_id": 58,
+    "text": "t really explain it but the flavor isn't the best. Only good thing is they're open very late and very close walk from ARC. Joy Yee - I previously went to a different location in the suburbs a few times and the food wasn't that good. The one near UIC recently reopened, so I figured I try it.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 433
+    "chunk_length": 291
   },
   {
-    "chunk_id": 46,
-    "text": "y write a separate thread about it sometime later. 43\n\u00b7\n15\nausland21\n\u2022\n3y ago\nGood\n\nTamashii Ramen - you can make a byo bowl and their lemonade is delicious, perfect for picky eaters\n\nLotus Cafe - I'm not a sandwich eater but their wings are super spicy and I love pairing it with rice\n\nMomo World - decent dumplings with good portion sizes, the owner is kinda abrasive but he means well (if who I saw was even the owner)\n\nIDOF - anything I can customize is good in my book, and the options are nice\n\nPhilly's Best - near TBK, I always get their tenders because they use Sweet Baby Ray's.",
+    "chunk_id": 59,
+    "text": "near UIC recently reopened, so I figured I try it. Pad thai was dry and rather bland, and boba tea wasn't really that good either (maybe better than the MyCha vending machines). United Table (SCE dining hall) - In fall 2022 semester the food was better. But now they don't change the menu as often as before, and on weekends the food is very mediocre.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 588
+    "chunk_length": 351
   },
   {
-    "chunk_id": 47,
+    "chunk_id": 60,
+    "text": "before, and on weekends the food is very mediocre. JST is better IMO, I'll probably write a separate thread about it sometime later.",
+    "source": "source_3_reddit_favorite_least_favorite.txt",
+    "chunk_length": 132
+  },
+  {
+    "chunk_id": 61,
+    "text": "y write a separate thread about it sometime later. 43\n\u00b7\n15\n\nausland21\n\u2022\n3y ago\nGood\n\nTamashii Ramen - you can make a byo bowl and their lemonade is delicious, perfect for picky eaters\n\nLotus Cafe - I'm not a sandwich eater but their wings are super spicy and I love pairing it with rice\n\nMomo World - decent dumplings with good portion sizes, the owner is kinda abrasive but he means well (if who I saw was even the owner)\n\nIDOF - anything I can customize is good in my book, and the options are nice\n\nPhilly's Best - near TBK, I always get their tenders because they use Sweet Baby Ray's.",
+    "source": "source_3_reddit_favorite_least_favorite.txt",
+    "chunk_length": 589
+  },
+  {
+    "chunk_id": 62,
     "text": "t their tenders because they use Sweet Baby Ray's. My coworkers are big fans of theirs as well. Gathers Tea - Hojicha Milk Tea to die for. I love their flavors and they get their sweetness just right. ML Kitchen - I love their shrimp fried rice and their pot stickers.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
     "chunk_length": 268
   },
   {
-    "chunk_id": 48,
-    "text": "ve their shrimp fried rice and their pot stickers. Meh\n\nRosati's - just pizza imo, cheap ish but really only satisfies a craving, you don't necessarily WANT their pizza it's just kind of the only one\n\nPopeye's - also just Popeye's tbh\n\nWould not go again\n\nSteak and Shake - I know they're gone BUT when they were open they would ALWAYS forget something in your order. You'd be like, \"Is my shake in here?\" they say yeah, you check, it's not.",
+    "chunk_id": 63,
+    "text": "ve their shrimp fried rice and their pot stickers. Meh\n\nRosati's - just pizza imo, cheap ish but really only satisfies a craving, you don't necessarily WANT their pizza it's just kind of the only one\n\nPopeye's - also just Popeye's tbh\n\nWould not go again\n\nSteak and Shake - I know they're gone BUT when they were open they would ALWAYS forget something in your order.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 441
+    "chunk_length": 367
   },
   {
-    "chunk_id": 49,
-    "text": "hake in here?\" they say yeah, you check, it's not. Also the fries were SUPER salty bruh\n\nKong Dog (?) - I'm salty that they replaced my favorite caf\u00e9 on Taylor St. (L'Ours :( ) but also if you want a hot dog just go to Maxwell idk, for cheaper\n\n11\nu/EMD_F40PH avatar\nEMD_F40PH\nOP\n\u2022\n3y ago\nThe Steak and Shake is closed now\n\nTo be honest I don\u2019t really like Steak and Shake because their burgers are very greasy.",
+    "chunk_id": 64,
+    "text": "they would ALWAYS forget something in your order. You'd be like, \"Is my shake in here?\" they say yeah, you check, it's not. Also the fries were SUPER salty bruh\n\nKong Dog (?) - I'm salty that they replaced my favorite caf\u00e9 on Taylor St.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 411
+    "chunk_length": 236
   },
   {
-    "chunk_id": 50,
+    "chunk_id": 65,
+    "text": "that they replaced my favorite caf\u00e9 on Taylor St. (L'Ours :( ) but also if you want a hot dog just go to Maxwell idk, for cheaper\n\n11\navatar\nEMD_F40PH\nOP\n\u2022\n3y ago\nThe Steak and Shake is closed now\n\nTo be honest I don\u2019t really like Steak and Shake because their burgers are very greasy.",
+    "source": "source_3_reddit_favorite_least_favorite.txt",
+    "chunk_length": 285
+  },
+  {
+    "chunk_id": 66,
     "text": "k and Shake because their burgers are very greasy. Having worked at a fast food restaurant before, the saltiness of fries tends to depend on how the employees do it. Some employees would add a ridiculous amount of salt until a manger tells them they\u2019re adding way too much. I\u2019d assume that\u2019s also the case at Steak and Shake\n\n1\nausland21\n\u2022\n3y ago\nYeah, I said it was closed in my post.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
     "chunk_length": 385
   },
   {
-    "chunk_id": 51,
+    "chunk_id": 67,
     "text": "21\n\u2022\n3y ago\nYeah, I said it was closed in my post. But it used to be here \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\n\n4\nla_g_faaaa\n\u2022\n3y ago\nWould definitely add Busy Burger, Two Shades Cafe, Jarabe (Taylor St.), Ground Up and Artopolis\n\n10\nllehnievili\n\u2022\n3y ago\nGhareeb Nawaz*\ud83d\ude2d\ud83d\ude2d fucking slaps\n\n7\nIndependent_Prize370\n\u2022\n3y ago\nwould go back there in a heartbeat\n\n1\nllehnievili\n\u2022\n3y ago\nliterally my favorite thing about the campus tbh it\u2019s such a steal and such good food\n\n1\nLogical-Notice7852\n\u2022\n3y ago\nChick Fil A South Loop > Chick Fil A in SCE\n\n6\nPlastic_End_6802\n\u2022\n3y ago\nThe CFA in sce is straight up awful compared to other CFAs.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
     "chunk_length": 596
   },
   {
-    "chunk_id": 52,
-    "text": "n sce is straight up awful compared to other CFAs. I would come home for the weekend and get chick fil a from the place near my house and it was night and day\n\n2\nu/EMD_F40PH avatar\nEMD_F40PH\nOP\n\u2022\n3y ago\nAlso I think Subway below TBH > Subway in SCE\n\n1\nu/Open_Choice_1057 avatar\nOpen_Choice_1057\n\u2022\n3y ago\nNew Xian Cuisine on Jackson has good food, that\u2019s my personal favorite for Chinese food. On that same corner you\u2019ll find Meli Cafe for breakfast and brunch, also a good spot.",
+    "chunk_id": 68,
+    "text": "n sce is straight up awful compared to other CFAs. I would come home for the weekend and get chick fil a from the place near my house and it was night and day\n\n2\navatar\nEMD_F40PH\nOP\n\u2022\n3y ago\nAlso I think Subway below TBH > Subway in SCE\n\n1\navatar\nOpen_Choice_1057\n\u2022\n3y ago\nNew Xian Cuisine on Jackson has good food, that\u2019s my personal favorite for Chinese food.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 478
+    "chunk_length": 361
   },
   {
-    "chunk_id": 53,
-    "text": "i Cafe for breakfast and brunch, also a good spot. 5\nPeaches_UK\n\u2022\n3y ago\nXi'an Cuisine is AMAZING! 1\nbuddsri\n\u2022\n3y ago\nAu Bon Pain is great too! Tried it for the first time, and I was blown away at how good the sandwiches were. Def go there if you haven\u2019t. 4\n[deleted]\n\u2022\n3y ago\nComment deleted by user\n\nu/KingSP3 avatar\nKingSP3\n\u2022\n3y ago\nBetter than any restaurant on campus\n\n1\nPlastic_End_6802\n\u2022\n3y ago\nGather\u2019s tea bar is sooo good.",
+    "chunk_id": 69,
+    "text": "ood, that\u2019s my personal favorite for Chinese food. On that same corner you\u2019ll find Meli Cafe for breakfast and brunch, also a good spot. 5\nPeaches_UK\n\u2022\n3y ago\nXi'an Cuisine is AMAZING! 1\nbuddsri\n\u2022\n3y ago\nAu Bon Pain is great too! Tried it for the first time, and I was blown away at how good the sandwiches were. Def go there if you haven\u2019t.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 432
+    "chunk_length": 341
   },
   {
-    "chunk_id": 54,
-    "text": "c_End_6802\n\u2022\n3y ago\nGather\u2019s tea bar is sooo good. I tried joy yee once and it was so terrible - bad, watered down thai tea and the tapioca tasted bad. I\u2019ve tried every boba place in chinatown while I lived in Chicago and gather\u2019s tea bar still has some of the best tea I\u2019ve ever had so I\u2019d recommend that fs",
+    "chunk_id": 70,
+    "text": "the sandwiches were. Def go there if you haven\u2019t. 4\n[deleted]\n\u2022\n3y ago\nComment deleted by user\n\navatar\nKingSP3\n\u2022\n3y ago\nBetter than any restaurant on campus\n\n1\nPlastic_End_6802\n\u2022\n3y ago\nGather\u2019s tea bar is sooo good. I tried joy yee once and it was so terrible - bad, watered down thai tea and the tapioca tasted bad.",
     "source": "source_3_reddit_favorite_least_favorite.txt",
-    "chunk_length": 308
+    "chunk_length": 317
   },
   {
-    "chunk_id": 55,
-    "text": "Source: https://www. How is the dining hall food? 7\n\u00b7\n16\nu/moomoo_global avatar\nmoomoo_global\n\u2022\n\n\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast.",
+    "chunk_id": 71,
+    "text": "watered down thai tea and the tapioca tasted bad. I\u2019ve tried every boba place in chinatown while I lived in Chicago and gather\u2019s tea bar still has some of the best tea I\u2019ve ever had so I\u2019d recommend that fs",
+    "source": "source_3_reddit_favorite_least_favorite.txt",
+    "chunk_length": 206
+  },
+  {
+    "chunk_id": 72,
+    "text": "How is the dining hall food? 7\n\u00b7\n16\navatar\nmoomoo_global\n\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade.",
     "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 481
+    "chunk_length": 386
   },
   {
-    "chunk_id": 56,
-    "text": "on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too.",
+    "chunk_id": 73,
+    "text": "ket movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too.",
     "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 432
+    "chunk_length": 309
   },
   {
-    "chunk_id": 57,
-    "text": "ions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\n\nIwannacookie101\n\u2022\n4y ago\nIt's neat for the first few weeks and then you get bored of it for the next 3 years. They have some decent options at times.",
+    "chunk_id": 74,
+    "text": "ions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo. #tradesmart\nOptions trading moves fast. Your workflow should too. Build strategies in seconds, react to live market movement, and visualize risk before you trade. All on moomoo.",
     "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 325
+    "chunk_length": 340
   },
   {
-    "chunk_id": 58,
-    "text": "t 3 years. They have some decent options at times. As for the other dining options:\n\nThe panda express is known for making people sick (myself included- I got poisoned 3 times during my time at UIC)\n\nChick fil a is always packed and the prices will tear your wallet apart... plus after a while you get tired of just chicken sandwiches. Subway/ chipotle knockoff / burger joint on the second floor are okay. 15\nSockhead420\n\u2022\n4y ago\nHonestly, the Chick Fil A Express is so subpar it's disappointing.",
+    "chunk_id": 75,
+    "text": "nd visualize risk before you trade. All on moomoo. #tradesmart\nmoomoo.com\n\nIwannacookie101\n\u2022\n4y ago\nIt's neat for the first few weeks and then you get bored of it for the next 3 years. They have some decent options at times.",
     "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 497
+    "chunk_length": 224
   },
   {
-    "chunk_id": 59,
-    "text": "ick Fil A Express is so subpar it's disappointing. You pay so much for a tiny sandwich that barely has any flavors (I prefer spicy foods) compared to the regular Chick Fil A. 2\nEpicViv\n\u2022\n4y ago\nThe only reason my friends and I are moving to an apartment this semester is because we've unanimously decided that our stupid, inexperienced asses can cook better than the UIC dining hall. Make what you want of that.",
+    "chunk_id": 76,
+    "text": "t 3 years. They have some decent options at times. As for the other dining options:\n\nThe panda express is known for making people sick (myself included- I got poisoned 3 times during my time at UIC)\n\nChick fil a is always packed and the prices will tear your wallet apart... plus after a while you get tired of just chicken sandwiches.",
     "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 411
+    "chunk_length": 335
   },
   {
-    "chunk_id": 60,
-    "text": "n the UIC dining hall. Make what you want of that. 9\n[deleted]\n\u2022\n4y ago\nI'm attending this Fall for the first time, so I haven't eaten there, but I've heard from many it's not that good. However on paper, they have a lot of healthy options as well as also comfort food options. Just a theory, but I feel like the comfort food is worse quality than the healthy stuff, and more people eat the comfort food. Could totally be wrong on that guess though. 5\n[deleted]\n\u2022\n4y ago\nIt\u2019s all bad quality.",
+    "chunk_id": 77,
+    "text": "a while you get tired of just chicken sandwiches. Subway/ chipotle knockoff / burger joint on the second floor are okay. 15\nSockhead420\n\u2022\n4y ago\nHonestly, the Chick Fil A Express is so subpar it's disappointing. You pay so much for a tiny sandwich that barely has any flavors (I prefer spicy foods) compared to the regular Chick Fil A.",
     "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 492
+    "chunk_length": 335
   },
   {
-    "chunk_id": 61,
+    "chunk_id": 78,
+    "text": "spicy foods) compared to the regular Chick Fil A. 2\nEpicViv\n\u2022\n4y ago\nThe only reason my friends and I are moving to an apartment this semester is because we've unanimously decided that our stupid, inexperienced asses can cook better than the UIC dining hall. Make what you want of that.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 286
+  },
+  {
+    "chunk_id": 79,
+    "text": "n the UIC dining hall. Make what you want of that. 9\n[deleted]\n\u2022\n4y ago\nI'm attending this Fall for the first time, so I haven't eaten there, but I've heard from many it's not that good. However on paper, they have a lot of healthy options as well as also comfort food options.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 277
+  },
+  {
+    "chunk_id": 80,
+    "text": "lthy options as well as also comfort food options. Just a theory, but I feel like the comfort food is worse quality than the healthy stuff, and more people eat the comfort food. Could totally be wrong on that guess though. 5\n[deleted]\n\u2022\n4y ago\nIt\u2019s all bad quality.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 265
+  },
+  {
+    "chunk_id": 81,
     "text": "though. 5\n[deleted]\n\u2022\n4y ago\nIt\u2019s all bad quality. The salad bar stuff always looks wilted and like it has been sitting out lol\n\n2\n[deleted]\n\u2022\n4y ago\nDamn, not the salad bar :((\n\n3\nAllFactualStatements\n\u2022\n4y ago\nSCE is better than JST for sure. There will still be questionable meals some days at both locations. However, the food at SCE is a lot less questionable.",
     "source": "source_4_reddit_dining_hall.txt",
     "chunk_length": 364
   },
   {
-    "chunk_id": 62,
-    "text": "wever, the food at SCE is a lot less questionable. 5\nSockhead420\n\u2022\n4y ago\nIn my experience it's super hit or miss, even when checking the menu ahead of time (sometimes the online menus aren't accurate). SCE is better than JST most of the time. 4\nlitefagami\n\u2022\n4y ago\nHonestly not bad at all, other than the breakfast food which kinda sucks tbh. Otherwise it's pretty great, and if you have flames fare with your meal plan you can also use it at chickfila/starbucks/panda express.",
-    "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 478
-  },
-  {
-    "chunk_id": 63,
-    "text": "also use it at chickfila/starbucks/panda express. 2\nhearnyillo\n\u2022\n4y ago\nI\u2019ve eaten there in the past and I make sure to check the menu to see if theirs actually something I\u2019ll eat. But I would take this with a grain of salt and the other responses, I think they just changed the company that does(?) the food to a company called United.",
-    "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 336
-  },
-  {
-    "chunk_id": 64,
-    "text": "that does(?) the food to a company called United. They were having like a demonstration of all the food they added to the menu and they added new machines, there\u2019s a rotisserie and I think it was either a crepe or a tortilla maker that made them on demand. It was for the company employees but I just walked in lol, it was kind of weird I was the only one that tried the food everyone else was taking pics and videos.",
-    "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 417
-  },
-  {
-    "chunk_id": 65,
-    "text": "the food everyone else was taking pics and videos. 1\n[deleted]\n\u2022\n4y ago\nOh yeah, even on the Dine on Campus app it was changed to \"United Table\". Let's hope the quality will improve. 1\nhearnyillo\n\u2022\n4y ago\nHopefully, the food I tasted was pretty good. 1\nu/Reasonable_Dare_4261 avatar\nReasonable_Dare_4261\n\u2022\n2y ago\nWhere in SCE is it.",
-    "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 332
-  },
-  {
-    "chunk_id": 66,
-    "text": "Reasonable_Dare_4261\n\u2022\n2y ago\nWhere in SCE is it. I can\u2019t find the dining hall\n\n1\nBlurredSight\n\u2022\n4y ago\nMy friend's roommate left the dorm because of how ass it was he said IIRC it was JST and only said it's worth it on maybe 2/7 days and the times would piss him off because they would close from 4-8 meaning he wouldn't get food until 8 at night since his classes were mid-day\n\n1\n[deleted]\n\u2022\n4y ago\nIt\u2019s not that great. It\u2019s filthy. I don\u2019t recommend it.",
-    "source": "source_4_reddit_dining_hall.txt",
-    "chunk_length": 456
-  },
-  {
-    "chunk_id": 67,
-    "text": "Source: https://www. Looking for Great Lunch and Dining Spots near UIC \u2013 Suggestions Welcome! Hey everyone! I\u2019m currently at UIC and am on the lookout for some great spots to grab lunch or have a nice dinner around the area. With all the classes and campus life, it would be awesome to have some go-to places where I can enjoy a quick bite during the day or a cozy dinner in the evenings. I\u2019d love to hear your recommendations!",
-    "source": "source_5_reddit_late_night.txt",
-    "chunk_length": 427
-  },
-  {
-    "chunk_id": 68,
-    "text": "e evenings. I\u2019d love to hear your recommendations! Whether it\u2019s hidden gems, food trucks, or popular places with delicious food \u2013 I\u2019m open to trying it all! Bonus points if they have good vegetarian or healthy options, but I\u2019m happy to explore a variety of cuisines. Looking forward to your suggestions. Thanks in advance! \ud83d\ude0a\n\n5\n\u00b7\n7\nu/isolvedhcm avatar\nisolvedhcm\n\u2022\n\n\nIs your talent acquisition tech helping or hurting? Learn More\nlearn.",
-    "source": "source_5_reddit_late_night.txt",
-    "chunk_length": 436
-  },
-  {
-    "chunk_id": 69,
-    "text": "isition tech helping or hurting? Learn More\nlearn. u/Appropriate_Map_1 avatar\nAppropriate_Map_1\n\u2022\n2y ago\nLook at a couple days ago, someone posted good food list around here\n\n2\nLumingen\n\u2022\n2y ago\nCarm's\n\n2\nla_g_faaaa\n\u2022\n2y ago\nI recommend checking out Meli Cafe on Halsted St., Busy Burger, IDOF and Jarabe on Taylor St.",
-    "source": "source_5_reddit_late_night.txt",
-    "chunk_length": 318
-  },
-  {
-    "chunk_id": 70,
-    "text": "ed St., Busy Burger, IDOF and Jarabe on Taylor St. and Tamashii Ramen on Jackson\n\n2\nOk-Syrup1141\n\u2022\n2y ago\nMy favorites are IDOF, One More Sushi, De Pasada, and Peanut Park\n\nIDOF is ten minutes walking and the rest are twenty minutes\n\nPeanut park is a little nicer and more expensive but it has amazing food\n\n1\nNouhzarc\n\u2022\n2y ago\nhmart got some fire food, I also think greektown is slepted on. Mr greek gyros is pretty good.",
-    "source": "source_5_reddit_late_night.txt",
-    "chunk_length": 422
-  },
-  {
-    "chunk_id": 71,
-    "text": "town is slepted on. Mr greek gyros is pretty good. 1\nu/ComprehensiveWar1018 avatar\nComprehensiveWar1018\n\u2022\n2y ago\nJim's original and Al's\n\n0\nu/snaildaddi avatar\nsnaildaddi\n\u2022\n2y ago\nseconding jim\u2019s \ud83d\ude4f best 5 dollar burger and fries you\u2019ll ever find",
-    "source": "source_5_reddit_late_night.txt",
-    "chunk_length": 245
-  },
-  {
-    "chunk_id": 72,
-    "text": "Source: https://\nAbout\nNoodles Etc is a Thai restaurant in the heart of Chicago's UIC campus. They offer large portions and reasonable prices, making it a great option for budget-minded students. Although their Thai food isn't particularly amazing, it's still good enough to satisfy most appetites.",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 298
-  },
-  {
-    "chunk_id": 73,
-    "text": "it's still good enough to satisfy most appetites. Why you should go\n1\nEnjoy delicious curry options with customizable spice levels\n2\nTry standout dishes like croquettes and Bai Mi sandwich\n3\nExperience a calm, clean, and inviting atmosphere\nReviews\nNoodles Etc offers a mixed experience with great tasting food but inconsistent service. Reviewers praise the delicious curry options and customizable spice levels, highlighting dishes like croquettes and Bai Mi sandwich as standout choices.",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 489
-  },
-  {
-    "chunk_id": 74,
-    "text": "roquettes and Bai Mi sandwich as standout choices. While some find the flavors lacking in certain dishes, others appreciate the generous portion sizes and friendly staff. The atmosphere is described as calm, clean, and inviting despite occasional issues with service efficiency.",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 278
-  },
-  {
-    "chunk_id": 75,
-    "text": "despite occasional issues with service efficiency. Review score4.1\nout of 5\nVery Good\n926 reviews\n\nFrom Google\nReview score4.0\nout of 5\nVery Good\n70 reviews\n\nFrom Tripadvisor\n5 stars\t\n466\n4 stars\t\n241\n3 stars\t\n105\n2 stars\t\n47\n1 star\t\n67\n5/5Qinli (\n\u2022\nOct 29, 2025 from\nGoogle\n\nOne of the best dining experiences around campus! The dishes are ABSOLUTELY amazing! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\n2/5Gee R\n\u2022\nJul 30, 2025 from\nGoogle\n\nThe food is always gonna be good.. the portion sizes have gotten smaller..",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 476
-  },
-  {
-    "chunk_id": 76,
-    "text": "be good.. the portion sizes have gotten smaller.. we came in and sat down for almost twenty minutes and we finally asked the server, if they were going to serve us.. she pointed to a very small QR code on the table and told us to order our food there after going back and forth online we were about to pay and the page expired. We then went to the front register and ordered our food.. the food came out we ate and left.. this place has gotten progressively worse over the years..",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 480
-  },
-  {
-    "chunk_id": 77,
-    "text": "ce has gotten progressively worse over the years.. See more\n3/5Glen T\n\u2022\nMay 29, 2023 from\nGoogle\n\nGreat taste, great food. Horrible and unfriendly service. Quite frankly, the staff couldn't care less. Still, the food is worth your time and money. The curry options are delicious and you can customize how spicy your order will taste. All food tastes very Thai and it is a great experience if you consider the flavor regardless of the poor service.",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 447
-  },
-  {
-    "chunk_id": 78,
-    "text": "onsider the flavor regardless of the poor service. 3/5Jane A\n\u2022\nJul 7, 2025 from\nGoogle\n\nCHEAP thai place for Uchicago visitors and students. Good options, food is tasty and large heavy portions. But some problems. For the curry dish, the rice was not a lot, and whilst the curry soup was very creamy and rich, the beef was okay at best, not tender, and very chewy! Plus $2.50 upcharge. Plus it was probably too rich as i had a big stomachache afterwards and had gastrointestinal problems afterwards.",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 499
-  },
-  {
-    "chunk_id": 79,
-    "text": "ards and had gastrointestinal problems afterwards. The drunken noodles were good and and curry noodles also, but not amazing. I ordered the curry noodles to go and it took ages for it to arrive. And they make you pay beforehand which is quite annoying. Service was decent, not the best and most friendly, depressing atmosphere, but overall good American-thai restaurant\n\nSee more\n3/5Colt B\n\u2022\nJan 28, 2024 from\nGoogle\n\nIt was an okay experience. The food really lacked flavor.",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 475
-  },
-  {
-    "chunk_id": 80,
-    "text": "an okay experience. The food really lacked flavor. If that was fixed then I think it would be a pretty good restaurant for the cost. The best things we got to try were the croquettes and the Bai Mi sandwhich. The staff was kind of lax on serving / paying attention. One of the best dining experiences around campus! The dishes are ABSOLUTELY amazing! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\nThe food is always gonna be good.. the portion sizes have gotten smaller..",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 429
-  },
-  {
-    "chunk_id": 81,
-    "text": "be good.. the portion sizes have gotten smaller.. we came in and sat down for almost twenty minutes and we finally asked the server, if they were going to serve us.. she pointed to a very small QR code on the table and told us to order our food there after going back and forth online we were about to pay and the page expired. We then went to the front register and ordered our food.. the food came out we ate and left.. this place has gotten progressively worse over the years..",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 480
-  },
-  {
     "chunk_id": 82,
-    "text": "ce has gotten progressively worse over the years.. Great taste, great food. Horrible and unfriendly service. Quite frankly, the staff couldn't care less. Still, the food is worth your time and money. The curry options are delicious and you",
-    "source": "source_6_noodles_etc.txt",
-    "chunk_length": 239
+    "text": "wever, the food at SCE is a lot less questionable. 5\nSockhead420\n\u2022\n4y ago\nIn my experience it's super hit or miss, even when checking the menu ahead of time (sometimes the online menus aren't accurate). SCE is better than JST most of the time. 4\nlitefagami\n\u2022\n4y ago\nHonestly not bad at all, other than the breakfast food which kinda sucks tbh.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 343
   },
   {
     "chunk_id": 83,
-    "text": "Source: https://www.sluurpy.us/chicago/restaurant/3809723/ghareeb-nawaz-uic/reviews\nHole in the wall restaurant located on the corner of Roosevelt in a little plaza. From the outside you wouldn\u2019t think much of this restaurant, but on the inside you\u2019ll be blown away with this hidden gem! It\u2019s a no frills, Indian/Pakistani restaurant offering very cheap delicious eats. I ordered butter chicken with basmati rice and chapatti. All for $15.",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 439
+    "text": "her than the breakfast food which kinda sucks tbh. Otherwise it's pretty great, and if you have flames fare with your meal plan you can also use it at chickfila/starbucks/panda express. 2\nhearnyillo\n\u2022\n4y ago\nI\u2019ve eaten there in the past and I make sure to check the menu to see if theirs actually something I\u2019ll eat.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 316
   },
   {
     "chunk_id": 84,
-    "text": "icken with basmati rice and chapatti. All for $15. Incredible flavor, perfect amount of spice and large portions\u2014 what more could you want! Show less\n\nHelpful\n\nShare\nN\nNasir Abbas\nGoogle\n2 weeks ago\n\n4.0\nA friend bought a few to go items kabob roll with paratha and biryanis. The roll was average. Not spectacular. The biryanis were kinda spicy. Service was pretty fast from order to readiness. It\u2019s a nice and white place on the campus.",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 437
+    "text": "menu to see if theirs actually something I\u2019ll eat. But I would take this with a grain of salt and the other responses, I think they just changed the company that does(?) the food to a company called United.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 206
   },
   {
     "chunk_id": 85,
-    "text": "diness. It\u2019s a nice and white place on the campus. Helpful\n\nShare\nW\nWa Qas\nGoogle\n2 months ago\n\n4.0\nGood for students, In/out. Good inexpensive menu items. Generous chicken pieces with Biryani. Mango Lassi also tasty. Helpful\n\nShare\nK\nKhushboo Qureshi\nGoogle\n2 months ago\n\n5.0\nI've tried all their chicken biryanis\u2014affordable and flavorful, especially when paired with the raita/chutney. Although the portions of raita are small, I've requested and received an extra serving each time.",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 485
+    "text": "that does(?) the food to a company called United. They were having like a demonstration of all the food they added to the menu and they added new machines, there\u2019s a rotisserie and I think it was either a crepe or a tortilla maker that made them on demand.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 256
   },
   {
     "chunk_id": 86,
-    "text": "requested and received an extra serving each time. Helpful\n\nShare\nA\nAB Shrestha\nGoogle\n3 months ago\n\n4.0\nTypical dhawa style food place. Super cheap, big amount. Lots of students. The food is actually not good, but gives you the experience of local non classed real highway dhawa(cheap eatery) in India. For the comparison of price and the food, I would say it\u2019s a good place. The place is clean. Helpful\n\nShare\nI\nIshaan Patel\nGoogle\n3 months ago\n\n5.0\nThe food was excellent.",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 475
+    "text": "repe or a tortilla maker that made them on demand. It was for the company employees but I just walked in lol, it was kind of weird I was the only one that tried the food everyone else was taking pics and videos. 1\n[deleted]\n\u2022\n4y ago\nOh yeah, even on the Dine on Campus app it was changed to \"United Table\". Let's hope the quality will improve.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 343
   },
   {
     "chunk_id": 87,
-    "text": "l\nGoogle\n3 months ago\n\n5.0\nThe food was excellent. Some of the best Indian food I\u2019ve had in Chicago. Also, portions are HUGE. Easily feed 3 people per dish it\u2019s that big. Highly recommend any of the rice bowls. I got butter paneer. Helpful\n\nShare\nE\nEmily Yolo\nGoogle\n3 months ago\n\n5.0\nMy go-to place when I was a student at UIC. I could get 2 or 3 good meals out of like $5 worth of food. The taste is pretty good too for $5.",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 425
+    "text": "nited Table\". Let's hope the quality will improve. 1\nhearnyillo\n\u2022\n4y ago\nHopefully, the food I tasted was pretty good. 1\navatar\nReasonable_Dare_4261\n\u2022\n2y ago\nWhere in SCE is it.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 177
   },
   {
     "chunk_id": 88,
-    "text": "orth of food. The taste is pretty good too for $5. Apparently not very authentic flavor, but as someone who's never had Indian food before it was great. I'd either get butter paneer with a side of rice or chicken biryani. Helpful\n\nShare\nM\nMichael Kozuchowski\nGoogle\n4 months ago\n\n5.0\nStill offering a 5 dollar lunch special in 2023? Get it before it\u2019s gone. This meal easily beats most of the $10-15 meal options of other lunch eateries. I consistently go out of my way to grab me some GN.",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 489
+    "text": "Reasonable_Dare_4261\n\u2022\n2y ago\nWhere in SCE is it. I can\u2019t find the dining hall\n\n1\nBlurredSight\n\u2022\n4y ago\nMy friend's roommate left the dorm because of how ass it was he said IIRC it was JST and only said it's worth it on maybe 2/7 days and the times would piss him off because they would close from 4-8 meaning he wouldn't get food until 8 at night since his classes were mid-day\n\n1\n[deleted]\n\u2022\n4y ago\nIt\u2019s not that great.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 421
   },
   {
     "chunk_id": 89,
-    "text": "consistently go out of my way to grab me some GN. Helpful\n\nShare\nR\nR K (Nightowl3590)\nGoogle\n5 months ago\n\n4.0\nGreat service. Fresh and fast cooking. This place used to be really delicious, but I don't know what happened last few times. Super spicy hot even if you tell them you want mild. The only saving grace is their parathas and friendly service. Would go back just for the parathas. Maybe their regular chef didn't show or have a bad night.",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 446
+    "text": "mid-day\n\n1\n[deleted]\n\u2022\n4y ago\nIt\u2019s not that great. It\u2019s filthy. I don\u2019t recommend it.",
+    "source": "source_4_reddit_dining_hall.txt",
+    "chunk_length": 85
   },
   {
     "chunk_id": 90,
-    "text": "heir regular chef didn't show or have a bad night. Parking is not a problem if you want to walk a few blocks. Helpful\n\nShare\nJ\nJessica P\nGoogle\n6 months ago\n\n5.0\nGot the butter chicken bowl (comes with rice on bottom. It was more than I expected. It is spicy but not overwhelming. Flavorful and tender chicken. Ordered paratha (like a tortilla kinda) as well. Delicious and very filling!! Helpful\n\nShare",
-    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
-    "chunk_length": 403
+    "text": "Looking for Great Lunch and Dining Spots near UIC \u2013 Suggestions Welcome! Hey everyone! I\u2019m currently at UIC and am on the lookout for some great spots to grab lunch or have a nice dinner around the area. With all the classes and campus life, it would be awesome to have some go-to places where I can enjoy a quick bite during the day or a cozy dinner in the evenings.",
+    "source": "source_5_reddit_late_night.txt",
+    "chunk_length": 367
   },
   {
     "chunk_id": 91,
-    "text": "source: https://\n\u2605\u2605\u2605\u2605\u2605\n\nMay 27, 2024\n\nFantastic cafe! Really close to UIC campus, so it's frequented by students. A really great environment for studying! The music is a little loud but I don't mind. My cashier was fantastic, he had a great attitude and helped me pick out my drink. Super polite!! I ordered a honey almond milk iced latte and it was delicious, exactly what I was looking for. Highly recommend you check this place out! Diane H. Diane H.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 453
+    "text": "e during the day or a cozy dinner in the evenings. I\u2019d love to hear your recommendations! Whether it\u2019s hidden gems, food trucks, or popular places with delicious food \u2013 I\u2019m open to trying it all! Bonus points if they have good vegetarian or healthy options, but I\u2019m happy to explore a variety of cuisines. Looking forward to your suggestions. Thanks in advance!",
+    "source": "source_5_reddit_late_night.txt",
+    "chunk_length": 361
   },
   {
     "chunk_id": 92,
-    "text": "ommend you check this place out! Diane H. Diane H. \u2605\u2605\u2605\u2605\u2606\n\nMay 22, 2024\n\nThey have some pretty great lattes (I recommend the \"Stormy Weather\"). Food is not that great, although they are known for their hand pies.Interesting low-fi music and ample seating (there is additional seating on the north side atrium). Conveniently next to UIC and the blue line.Shout-out to William who's always been great to talk to and provides excellent customer service! Kit C. Kit C.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 463
+    "text": "ng forward to your suggestions. Thanks in advance! \ud83d\ude0a\n\n5\n\u00b7\n7\navatar\nisolvedhcm\n\nIs your talent acquisition tech helping or hurting?",
+    "source": "source_5_reddit_late_night.txt",
+    "chunk_length": 130
   },
   {
     "chunk_id": 93,
-    "text": "provides excellent customer service! Kit C. Kit C. \u2605\u2605\u2605\u2605\u2605\n\nJul 21, 2024\n\nStopped by to get a quick coffee before stopping by the farmers market. The cafe itself is cute and the cashier was friendly and quick. I got a regular cafe latte w oat milk, it was delicious and hit the spot! I'd love to try their golden milk latte next time and their pastries!! Insia Z. Insia Z. \u2605\u2605\u2605\u2605\u2605\n\nJun 21, 2024\n\nLove their seasonal specialties! I had a lavender salted one recently that I loved.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 475
+    "text": "s your talent acquisition tech helping or hurting? Learn More\nlearn.applicantpro.com\n\navatar\nAppropriate_Map_1\n\u2022\n2y ago\nLook at a couple days ago, someone posted good food list around here\n\n2\nLumingen\n\u2022\n2y ago\nCarm's\n\n2\nla_g_faaaa\n\u2022\n2y ago\nI recommend checking out Meli Cafe on Halsted St., Busy Burger, IDOF and Jarabe on Taylor St.",
+    "source": "source_5_reddit_late_night.txt",
+    "chunk_length": 333
   },
   {
     "chunk_id": 94,
-    "text": "I had a lavender salted one recently that I loved. This place is homey and reliable, great corner spot. I like how early it opens, the pickup order online is super useful. Everyone is super nice who works there, and it's great casual neighborhood vibes. Recommend. Justine C. Justine C. \u2605\u2605\u2605\u2605\u2605\n\nMay 5, 2024\n\nThis is my boyfriend and I's favorite coffee spot to go to! There are fun drink specials to try and I love getting the lavender coffee drink with ice.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 457
+    "text": "ed St., Busy Burger, IDOF and Jarabe on Taylor St. and Tamashii Ramen on Jackson\n\n2\nOk-Syrup1141\n\u2022\n2y ago\nMy favorites are IDOF, One More Sushi, De Pasada, and Peanut Park\n\nIDOF is ten minutes walking and the rest are twenty minutes\n\nPeanut park is a little nicer and more expensive but it has amazing food\n\n1\nNouhzarc\n\u2022\n2y ago\nhmart got some fire food, I also think greektown is slepted on.",
+    "source": "source_5_reddit_late_night.txt",
+    "chunk_length": 391
   },
   {
     "chunk_id": 95,
-    "text": "I love getting the lavender coffee drink with ice. The baristas and staff are all efficient and friendly! Their raspberry cream cheese muffin is absolutely one of the best muffins ever. They have tables open inside their coffee shop and a few tables outside for anyone to work and study. Highly recommend! Blue A. Blue A. \u2605\u2605\u2605\u2605\u2605\n\nFeb 5, 2024\n\nCame here to work on my laptop for a few hours and loved it!The coffee was great. The hand pies were stellar tho! I got the spinach and feta.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 483
+    "text": "e fire food, I also think greektown is slepted on. Mr greek gyros is pretty good. 1\navatar\nComprehensiveWar1018\n\u2022\n2y ago\nJim's original and Al's\n\n0\navatar\nsnaildaddi\n\u2022\n2y ago\nseconding jim\u2019s \ud83d\ude4f best 5 dollar burger and fries you\u2019ll ever find",
+    "source": "source_5_reddit_late_night.txt",
+    "chunk_length": 240
   },
   {
     "chunk_id": 96,
-    "text": "pies were stellar tho! I got the spinach and feta. I also tried the English muffin sandwich and it was great.Staff were so friendly. Plenty of places to plug in and overall a great little coffee shop that I'll be back to soon. Squish C. Squish C. \u2605\u2605\u2605\u2606\u2606\n\nOct 16, 2023\n\nDecent, but the matcha made me do it is weird...I ordered the matcha-made-me-do-it which has matcha, coffee, strawberry, and sea salt. I love all of those things, so i figured it was worth a shot.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 464
+    "text": "About\nNoodles Etc is a Thai restaurant in the heart of Chicago's UIC campus. They offer large portions and reasonable prices, making it a great option for budget-minded students. Although their Thai food isn't particularly amazing, it's still good enough to satisfy most appetites.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 281
   },
   {
     "chunk_id": 97,
-    "text": "of those things, so i figured it was worth a shot. After 5 sips it was very overpowering. If you love coffee and matcha together you would probably enjoy this a lot more than me, but unfortunately this was a miss in my opinion. I reordered and got an iced chamomile tea and it was very pleasant. My partner enjoyed their iced chai, and the hand pies are very yummy!I wouldn't say this place is bad, but what I got is definitely an acquired taste so beware of that. Rathvon M. Rathvon M.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 486
+    "text": "it's still good enough to satisfy most appetites. Why you should go\n1\nEnjoy delicious curry options with customizable spice levels\n2\nTry standout dishes like croquettes and Bai Mi sandwich\n3\nExperience a calm, clean, and inviting atmosphere\nReviews\nNoodles Etc offers a mixed experience with great tasting food but inconsistent service.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 336
   },
   {
     "chunk_id": 98,
-    "text": "red taste so beware of that. Rathvon M. Rathvon M. \u2605\u2605\u2605\u2605\u2605\n\nAug 5, 2023\n\nThis is what every neighborhood needs. A solid, independent and comfortable coffee shop. You can easily spend a morning at Ground Up, surrounded by fresh baked goods, interesting espresso drinks and my favorite...hot, black, coffee. It's a darn good cup of coffee. Freshly brewed, hot and delicious.My daughter enjoyed the Fresas Con Crema. I'm not exactly sure what it was, but she definitely enjoyed the fact that I was buying.",
-    "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 500
+    "text": "with great tasting food but inconsistent service. Reviewers praise the delicious curry options and customizable spice levels, highlighting dishes like croquettes and Bai Mi sandwich as standout choices. While some find the flavors lacking in certain dishes, others appreciate the generous portion sizes and friendly staff.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 322
   },
   {
     "chunk_id": 99,
+    "text": "ate the generous portion sizes and friendly staff. The atmosphere is described as calm, clean, and inviting despite occasional issues with service efficiency.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 158
+  },
+  {
+    "chunk_id": 100,
+    "text": "despite occasional issues with service efficiency. Review score4.1\nout of 5\nVery Good\n926 reviews\n\nFrom Google\nReview score4.0\nout of 5\nVery Good\n70 reviews\n\nFrom Tripadvisor\n5 stars\t\n466\n4 stars\t\n241\n3 stars\t\n105\n2 stars\t\n47\n1 star\t\n67\n5/5Qinli (\n\u2022\nOct 29, 2025 from\nGoogle\n\nOne of the best dining experiences around campus! The dishes are ABSOLUTELY amazing!",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 360
+  },
+  {
+    "chunk_id": 101,
+    "text": "around campus! The dishes are ABSOLUTELY amazing! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\n2/5Gee R\n\u2022\nJul 30, 2025 from\nGoogle\n\nThe food is always gonna be good.. the portion sizes have gotten smaller.. we came in and sat down for almost twenty minutes and we finally asked the server, if they were going to serve us..",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 281
+  },
+  {
+    "chunk_id": 102,
+    "text": "asked the server, if they were going to serve us.. she pointed to a very small QR code on the table and told us to order our food there after going back and forth online we were about to pay and the page expired. We then went to the front register and ordered our food.. the food came out we ate and left.. this place has gotten progressively worse over the years..",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 365
+  },
+  {
+    "chunk_id": 103,
+    "text": "ce has gotten progressively worse over the years.. See more\n3/5Glen T\n\u2022\nMay 29, 2023 from\nGoogle\n\nGreat taste, great food. Horrible and unfriendly service. Quite frankly, the staff couldn't care less. Still, the food is worth your time and money. The curry options are delicious and you can customize how spicy your order will taste.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 333
+  },
+  {
+    "chunk_id": 104,
+    "text": "you can customize how spicy your order will taste. All food tastes very Thai and it is a great experience if you consider the flavor regardless of the poor service. 3/5Jane A\n\u2022\nJul 7, 2025 from\nGoogle\n\nCHEAP thai place for Uchicago visitors and students. Good options, food is tasty and large heavy portions. But some problems.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 327
+  },
+  {
+    "chunk_id": 105,
+    "text": "tasty and large heavy portions. But some problems. For the curry dish, the rice was not a lot, and whilst the curry soup was very creamy and rich, the beef was okay at best, not tender, and very chewy! Plus $2.50 upcharge. Plus it was probably too rich as i had a big stomachache afterwards and had gastrointestinal problems afterwards.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 336
+  },
+  {
+    "chunk_id": 106,
+    "text": "ards and had gastrointestinal problems afterwards. The drunken noodles were good and and curry noodles also, but not amazing. I ordered the curry noodles to go and it took ages for it to arrive. And they make you pay beforehand which is quite annoying.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 252
+  },
+  {
+    "chunk_id": 107,
+    "text": "y make you pay beforehand which is quite annoying. Service was decent, not the best and most friendly, depressing atmosphere, but overall good American-thai restaurant\n\nSee more\n3/5Colt B\n\u2022\nJan 28, 2024 from\nGoogle\n\nIt was an okay experience. The food really lacked flavor. If that was fixed then I think it would be a pretty good restaurant for the cost.",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 355
+  },
+  {
+    "chunk_id": 108,
+    "text": "it would be a pretty good restaurant for the cost. The best things we got to try were the croquettes and the Bai Mi sandwhich. The staff was kind of lax on serving / paying attention. One of the best dining experiences around campus! The dishes are ABSOLUTELY amazing! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\nThe food is always gonna be good.. the portion sizes have gotten smaller..",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 347
+  },
+  {
+    "chunk_id": 109,
+    "text": "be good.. the portion sizes have gotten smaller.. we came in and sat down for almost twenty minutes and we finally asked the server, if they were going to serve us.. she pointed to a very small QR code on the table and told us to order our food there after going back and forth online we were about to pay and the page expired. We then went to the front register and ordered our food..",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 385
+  },
+  {
+    "chunk_id": 110,
+    "text": "went to the front register and ordered our food.. the food came out we ate and left.. this place has gotten progressively worse over the years.. Great taste, great food. Horrible and unfriendly service. Quite frankly, the staff couldn't care less. Still, the food is worth your time and money. The curry options are delicious and you",
+    "source": "source_6_noodles_etc.txt",
+    "chunk_length": 333
+  },
+  {
+    "chunk_id": 111,
+    "text": "Hole in the wall restaurant located on the corner of Roosevelt in a little plaza. From the outside you wouldn\u2019t think much of this restaurant, but on the inside you\u2019ll be blown away with this hidden gem! It\u2019s a no frills, Indian/Pakistani restaurant offering very cheap delicious eats. I ordered butter chicken with basmati rice and chapatti. All for $15.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 355
+  },
+  {
+    "chunk_id": 112,
+    "text": "icken with basmati rice and chapatti. All for $15. Incredible flavor, perfect amount of spice and large portions\u2014 what more could you want! Show less\n\nHelpful\n\nShare\nN\nNasir Abbas\nGoogle\n2 weeks ago\n \n4.0\nA friend bought a few to go items kabob roll with paratha and biryanis. The roll was average. Not spectacular. The biryanis were kinda spicy. Service was pretty fast from order to readiness.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 395
+  },
+  {
+    "chunk_id": 113,
+    "text": ". Service was pretty fast from order to readiness. It\u2019s a nice and white place on the campus. Helpful\n\nShare\nW\nWa Qas\nGoogle\n2 months ago\n \n4.0\nGood for students, In/out. Good inexpensive menu items. Generous chicken pieces with Biryani. Mango Lassi also tasty.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 261
+  },
+  {
+    "chunk_id": 114,
+    "text": "icken pieces with Biryani. Mango Lassi also tasty. Helpful\n\nShare\nK\nKhushboo Qureshi\nGoogle\n2 months ago\n \n5.0\nI've tried all their chicken biryanis\u2014affordable and flavorful, especially when paired with the raita/chutney. Although the portions of raita are small, I've requested and received an extra serving each time.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 319
+  },
+  {
+    "chunk_id": 115,
+    "text": "requested and received an extra serving each time. Helpful\n\nShare\nA\nAB Shrestha\nGoogle\n3 months ago\n \n4.0\nTypical dhawa style food place. Super cheap, big amount. Lots of students. The food is actually not good, but gives you the experience of local non classed real highway dhawa(cheap eatery) in India. For the comparison of price and the food, I would say it\u2019s a good place. The place is clean.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 397
+  },
+  {
+    "chunk_id": 116,
+    "text": "I would say it\u2019s a good place. The place is clean. Helpful\n\nShare\nI\nIshaan Patel\nGoogle\n3 months ago\n \n5.0\nThe food was excellent. Some of the best Indian food I\u2019ve had in Chicago. Also, portions are HUGE. Easily feed 3 people per dish it\u2019s that big. Highly recommend any of the rice bowls. I got butter paneer.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 311
+  },
+  {
+    "chunk_id": 117,
+    "text": "ommend any of the rice bowls. I got butter paneer. Helpful\n\nShare\nE\nEmily Yolo\nGoogle\n3 months ago\n \n5.0\nMy go-to place when I was a student at UIC. I could get 2 or 3 good meals out of like $5 worth of food. The taste is pretty good too for $5. Apparently not very authentic flavor, but as someone who's never had Indian food before it was great.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 347
+  },
+  {
+    "chunk_id": 118,
+    "text": "e who's never had Indian food before it was great. I'd either get butter paneer with a side of rice or chicken biryani. Helpful\n\nShare\nM\nMichael Kozuchowski\nGoogle\n4 months ago\n \n5.0\nStill offering a 5 dollar lunch special in 2023? Get it before it\u2019s gone. This meal easily beats most of the $10-15 meal options of other lunch eateries. I consistently go out of my way to grab me some GN.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 388
+  },
+  {
+    "chunk_id": 119,
+    "text": "consistently go out of my way to grab me some GN. Helpful\n\nShare\nR\nR K (Nightowl3590)\nGoogle\n5 months ago\n \n4.0\nGreat service. Fresh and fast cooking. This place used to be really delicious, but I don't know what happened last few times. Super spicy hot even if you tell them you want mild. The only saving grace is their parathas and friendly service. Would go back just for the parathas.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 389
+  },
+  {
+    "chunk_id": 120,
+    "text": "ndly service. Would go back just for the parathas. Maybe their regular chef didn't show or have a bad night. Parking is not a problem if you want to walk a few blocks. Helpful\n\nShare\nJ\nJessica P\nGoogle\n6 months ago\n \n5.0\nGot the butter chicken bowl (comes with rice on bottom. It was more than I expected. It is spicy but not overwhelming. Flavorful and tender chicken.",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 369
+  },
+  {
+    "chunk_id": 121,
+    "text": "ut not overwhelming. Flavorful and tender chicken. Ordered paratha (like a tortilla kinda) as well. Delicious and very filling!! Helpful\n\nShare",
+    "source": "source_7_ghareeb_nawaz_sluurpy.txt",
+    "chunk_length": 143
+  },
+  {
+    "chunk_id": 122,
+    "text": "source: https://sagemenu.com/chicago/ground-up-chicago/\n\u2605\u2605\u2605\u2605\u2605\n\nMay 27, 2024\n\nFantastic cafe! Really close to UIC campus, so it's frequented by students. A really great environment for studying! The music is a little loud but I don't mind. My cashier was fantastic, he had a great attitude and helped me pick out my drink. Super polite!!",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 336
+  },
+  {
+    "chunk_id": 123,
+    "text": "de and helped me pick out my drink. Super polite!! I ordered a honey almond milk iced latte and it was delicious, exactly what I was looking for. Highly recommend you check this place out! Diane H. Diane H. \u2605\u2605\u2605\u2605\u2606\n\nMay 22, 2024\n\nThey have some pretty great lattes (I recommend the \"Stormy Weather\").",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 298
+  },
+  {
+    "chunk_id": 124,
+    "text": "y great lattes (I recommend the \"Stormy Weather\"). Food is not that great, although they are known for their hand pies.Interesting low-fi music and ample seating (there is additional seating on the north side atrium). Conveniently next to UIC and the blue line.Shout-out to William who's always been great to talk to and provides excellent customer service! Kit C. Kit C.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 371
+  },
+  {
+    "chunk_id": 125,
+    "text": "provides excellent customer service! Kit C. Kit C. \u2605\u2605\u2605\u2605\u2605\n\nJul 21, 2024\n\nStopped by to get a quick coffee before stopping by the farmers market. The cafe itself is cute and the cashier was friendly and quick. I got a regular cafe latte w oat milk, it was delicious and hit the spot! I'd love to try their golden milk latte next time and their pastries!! Insia Z. Insia Z.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 370
+  },
+  {
+    "chunk_id": 126,
+    "text": "e next time and their pastries!! Insia Z. Insia Z. \u2605\u2605\u2605\u2605\u2605\n\nJun 21, 2024\n\nLove their seasonal specialties! I had a lavender salted one recently that I loved. This place is homey and reliable, great corner spot. I like how early it opens, the pickup order online is super useful. Everyone is super nice who works there, and it's great casual neighborhood vibes. Recommend. Justine C. Justine C.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 391
+  },
+  {
+    "chunk_id": 127,
+    "text": "ighborhood vibes. Recommend. Justine C. Justine C. \u2605\u2605\u2605\u2605\u2605\n\nMay 5, 2024\n\nThis is my boyfriend and I's favorite coffee spot to go to! There are fun drink specials to try and I love getting the lavender coffee drink with ice. The baristas and staff are all efficient and friendly! Their raspberry cream cheese muffin is absolutely one of the best muffins ever.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 356
+  },
+  {
+    "chunk_id": 128,
+    "text": "muffin is absolutely one of the best muffins ever. They have tables open inside their coffee shop and a few tables outside for anyone to work and study. Highly recommend! Blue A. Blue A. \u2605\u2605\u2605\u2605\u2605\n\nFeb 5, 2024\n\nCame here to work on my laptop for a few hours and loved it!The coffee was great. The hand pies were stellar tho! I got the spinach and feta.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 348
+  },
+  {
+    "chunk_id": 129,
+    "text": "pies were stellar tho! I got the spinach and feta. I also tried the English muffin sandwich and it was great.Staff were so friendly. Plenty of places to plug in and overall a great little coffee shop that I'll be back to soon. Squish C. Squish C.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 246
+  },
+  {
+    "chunk_id": 130,
+    "text": "hop that I'll be back to soon. Squish C. Squish C. \u2605\u2605\u2605\u2606\u2606\n\nOct 16, 2023\n\nDecent, but the matcha made me do it is weird...I ordered the matcha-made-me-do-it which has matcha, coffee, strawberry, and sea salt. I love all of those things, so i figured it was worth a shot. After 5 sips it was very overpowering.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 307
+  },
+  {
+    "chunk_id": 131,
+    "text": "rth a shot. After 5 sips it was very overpowering. If you love coffee and matcha together you would probably enjoy this a lot more than me, but unfortunately this was a miss in my opinion. I reordered and got an iced chamomile tea and it was very pleasant.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 256
+  },
+  {
+    "chunk_id": 132,
+    "text": "ot an iced chamomile tea and it was very pleasant. My partner enjoyed their iced chai, and the hand pies are very yummy!I wouldn't say this place is bad, but what I got is definitely an acquired taste so beware of that. Rathvon M. Rathvon M. \u2605\u2605\u2605\u2605\u2605\n\nAug 5, 2023\n\nThis is what every neighborhood needs. A solid, independent and comfortable coffee shop.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 350
+  },
+  {
+    "chunk_id": 133,
+    "text": "A solid, independent and comfortable coffee shop. You can easily spend a morning at Ground Up, surrounded by fresh baked goods, interesting espresso drinks and my favorite...hot, black, coffee. It's a darn good cup of coffee. Freshly brewed, hot and delicious.My daughter enjoyed the Fresas Con Crema. I'm not exactly sure what it was, but she definitely enjoyed the fact that I was buying.",
+    "source": "source_8_ground_up_coffee.txt",
+    "chunk_length": 390
+  },
+  {
+    "chunk_id": 134,
     "text": "she definitely enjoyed the fact that I was buying. She really enjoyed her drink.If you are in the neighborhood, stop by for an excellent cup of Joe in a very comfortables store. Support your local coffee shops and make sure you tip your barista well!! Anna G. Anna G. \u2605\u2605\u2605\u2605\u2605\n\nJan 17, 2024\n\nGreat space, fast and friendly service, solid coffee beans and interesting and delicious lattes.",
     "source": "source_8_ground_up_coffee.txt",
     "chunk_length": 385
   },
   {
-    "chunk_id": 100,
-    "text": "coffee beans and interesting and delicious lattes. I grabbed my baklava latte and a spinach/feta pastry (both yum!) to go today, but I'd love to come back and hang out with a bit. Lily F. Lily F. \u2605\u2605\u2605\u2605\u2605\n\nJun 4, 2024\n\nRight by the UIC train stop. I ran in before work on a tight schedule & the service was speedy fast! I got a delicious matcha with vanilla! Everything about the drink was perfect! Creamy, flavorful, & yummy! The shop would be a fun spot to have a meeting or to do work!",
+    "chunk_id": 135,
+    "text": "coffee beans and interesting and delicious lattes. I grabbed my baklava latte and a spinach/feta pastry (both yum!) to go today, but I'd love to come back and hang out with a bit. Lily F. Lily F. \u2605\u2605\u2605\u2605\u2605\n\nJun 4, 2024\n\nRight by the UIC train stop. I ran in before work on a tight schedule & the service was speedy fast! I got a delicious matcha with vanilla! Everything about the drink was perfect!",
     "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 485
+    "chunk_length": 395
   },
   {
-    "chunk_id": 101,
-    "text": "uld be a fun spot to have a meeting or to do work! Definitely wanting to try more from the menu!",
+    "chunk_id": 136,
+    "text": "h vanilla! Everything about the drink was perfect! Creamy, flavorful, & yummy! The shop would be a fun spot to have a meeting or to do work! Definitely wanting to try more from the menu!",
     "source": "source_8_ground_up_coffee.txt",
-    "chunk_length": 96
+    "chunk_length": 186
   },
   {
-    "chunk_id": 102,
-    "text": "source: https://www. Top Reviews of Ghareeb Nawaz\nreview_stars 04/22/2026 - Valencia U. Ghareeb Nawaz has become my go-to for Indian food in Chicago because it's cheap and super convenient. They whip up a massive menu of flavorful dishes in no time, and the chili chicken is my absolute favorite with its spicy, smoky goodness. Even though the ambiance is pretty casual, the friendly staff and quick service make it a solid choice when I'm craving a quick, satisfying meal.",
+    "chunk_id": 137,
+    "text": "source: https://www.menupix.com/chicago/restaurants/380211311/Ghareeb-Nawaz-Chicago-IL\nTop Reviews of Ghareeb Nawaz\nreview_stars 04/22/2026 - Valencia U. Ghareeb Nawaz has become my go-to for Indian food in Chicago because it's cheap and super convenient. They whip up a massive menu of flavorful dishes in no time, and the chili chicken is my absolute favorite with its spicy, smoky goodness.",
     "source": "source_9_ghareeb_nawaz_menupix.txt",
-    "chunk_length": 473
+    "chunk_length": 393
   },
   {
-    "chunk_id": 103,
-    "text": "choice when I'm craving a quick, satisfying meal. review_stars 07/15/2025 - Sascha G. Ghareeb Nawaz near UIC serves up affordable, flavorful Indian food with huge portions and super fast service, making it perfect for anyone craving a quick, satisfying meal. Their chili chicken and butter chicken bowls are my favorites, packed with spice and taste, and the variety on the menu always keeps things interesting without breaking the bank. review_stars 11/04/2024 - Mary G.",
+    "chunk_id": 138,
+    "text": "absolute favorite with its spicy, smoky goodness. Even though the ambiance is pretty casual, the friendly staff and quick service make it a solid choice when I'm craving a quick, satisfying meal. review_stars 07/15/2025 - Sascha G.",
     "source": "source_9_ghareeb_nawaz_menupix.txt",
-    "chunk_length": 471
+    "chunk_length": 231
   },
   {
-    "chunk_id": 104,
+    "chunk_id": 139,
+    "text": "tisfying meal. review_stars 07/15/2025 - Sascha G. Ghareeb Nawaz near UIC serves up affordable, flavorful Indian food with huge portions and super fast service, making it perfect for anyone craving a quick, satisfying meal.",
+    "source": "source_9_ghareeb_nawaz_menupix.txt",
+    "chunk_length": 223
+  },
+  {
+    "chunk_id": 140,
+    "text": "rfect for anyone craving a quick, satisfying meal. Their chili chicken and butter chicken bowls are my favorites, packed with spice and taste, and the variety on the menu always keeps things interesting without breaking the bank. review_stars 11/04/2024 - Mary G.",
+    "source": "source_9_ghareeb_nawaz_menupix.txt",
+    "chunk_length": 263
+  },
+  {
+    "chunk_id": 141,
     "text": "eaking the bank. review_stars 11/04/2024 - Mary G. Ghareeb Nawaz offers a convenient and affordable Indian dining experience in Chicago, with late hours and multiple locations to choose from. The menu boasts a variety of flavorful dishes, such as the spicy chili chicken and green chili chicken, perfect for satisfying cravings without breaking the bank.",
     "source": "source_9_ghareeb_nawaz_menupix.txt",
     "chunk_length": 354
